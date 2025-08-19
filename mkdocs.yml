@@ -33,25 +33,25 @@ nav:
   - Kezdőlap: index.md
   - Művtöri:
     - 1A - Ókori Egyiptom: muvtori/01_A_egyiptom.md
-    - 2A - Ókori Görögország. tétel: muvtori/02_A_gorog.md
+    - 2A - Ókori Görögország: muvtori/02_A_gorog.md
     - 3A - Ókeresztény és bizánci művészet: muvtori/03_A_romai.md
     - 4A - Román stílus: muvtori/04_A_kereszteny.md
-    - 5. tétel: muvtori/05_tetel.md
-    - 6. tétel: muvtori/06_tetel.md
-    - 7. tétel: muvtori/07_tetel.md
-    - 8. tétel: muvtori/08_tetel.md
-    - 9. tétel: muvtori/09_tetel.md
-    - 10. tétel: muvtori/10_tetel.md
-    - 11. tétel: muvtori/11_tetel.md
-    - 12. tétel: muvtori/12_tetel.md
-    - 13. tétel: muvtori/13_tetel.md
-    - 14. tétel: muvtori/14_tetel.md
-    - 15. tétel: muvtori/15_tetel.md
-    - 16. tétel: muvtori/16_tetel.md
-    - 17. tétel: muvtori/17_tetel.md
-    - 18. tétel: muvtori/18_tetel.md
-    - 19. tétel: muvtori/19_tetel.md
-    - 20. tétel: muvtori/20_tetel.md
+    - 5A - Román stílus építészete és művészete: muvtori/05_A_romankori.md
+    - 6A - A gótika építészete: muvtori/06_A_gotika.md
+    - 7A - A gótikus szobrászat, festészet és kézművesség: muvtori/07_A_gotikus_szobraszat_festeszet_kezmuvesseg.md
+    - 8A - Az itáliai reneszánsz: muvtori/08_A_reneszansz.md
+    - 9A - A reneszánsz Itálián kívül: muvtori/09_A_eszaki_reneszansz.md
+    - 10A - A barokk építészet és szobrászat: muvtori/10_A_barokk.md
+    - 11A - A barokk és rokokó festészet: muvtori/11_A_barokk_rokoko_festeszet.md
+    - 12A - A klasszicizmus: muvtori/12_A_klasszicizmus.md
+    - 13A - A romantika, historizmus és eklektika: muvtori/13_A_romantika_historizmus_eklektika.md
+    - 14A - Az impresszionizmus és posztimpresszionizmus: muvtori/14_A_impresszionizmus_posztimpresszionizmus.md
+    - 15A - A szimbolizmus és szecesszió: muvtori/15_A_szimbolizmus_szecesszio.md
+    - 16A - A 20. század eleji avantgárd: muvtori/16_A_avantgard_20szazad_eleje.md
+    - 17A - Futurizmus, konstruktivizmus, dadaizmus és szürrealizmus: muvtori/17_A_futurizmus_konstruktivizmus_dadaizmus_szurrealizmus.md
+    - 18A - A 20. századi építészet és iparművészet: muvtori/18_A_20szazadi_epiteszet_iparmuveszet.md
+    - 19A - A 20. századi képzőművészet: muvtori/19_A_20szazadi_kepzomuveszet.md
+    - 20A - A kortárs művészet és a 21. század: muvtori/20_A_kortars_muveszet_21szazad.md
   - Szaktöri:
     - 1. tétel: szaktori/01_tetel.md
     - 2. tétel: szaktori/02_tetel.md
