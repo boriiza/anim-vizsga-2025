@@ -1,4 +1,4 @@
-# A) Az ókori Egyiptom társadalma, hiedelemvilága és művészete
+# 1A - Az ókori Egyiptom társadalma, hiedelemvilága és művészete
 
 ## 1. Társadalmi felépítés
 - **Fáraó** – isteni hatalommal bíró uralkodó, korlátlan hatalom

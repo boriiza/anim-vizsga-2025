@@ -1,4 +1,4 @@
-# A) Az antik görög kor hitvilága, korszakai és építészete
+# 2A - Az antik görög kor hitvilága, korszakai és építészete
 
 ## 1. Görög kultúra és társadalom
 - **Poliszok (városállamok)** kiépülése → a kultúra és művészet virágzása  
@@ -7,7 +7,7 @@
 
 ## 2. Görög hitvilág és mitológia
 - **Politeizmus**, antropomorf istenek (emberi alakban, halhatatlanok)
-  
+
   - **Zeusz** (főisten, villám)  
   - **Héra** (család, házasság)  
   - **Hadész** (alvilág)  
