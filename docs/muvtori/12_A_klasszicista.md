@@ -145,3 +145,7 @@
 - **Történelmi rekonstrukció** → klasszicista épületek
 - **Művészettörténet** → tudományos kutatás
 - **Turizmus** → klasszicista emlékek látogatása
+
+---
+
+![Realizmus](../base/kepek/images/12_Realizmus_KÉP.png)

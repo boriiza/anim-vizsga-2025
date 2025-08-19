@@ -186,3 +186,7 @@
 - **Művészettörténet** → tudományos kutatás
 - **Múzeumok** → avantgárd gyűjtemények
 - **Oktatás** → művészeti iskolák
+
+---
+
+![Szimbolizmus, Szecesszió, Csontváry](../base/kepek/images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)

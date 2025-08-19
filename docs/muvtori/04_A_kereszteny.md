@@ -141,3 +141,7 @@
 - **Neoromán stílus** → XIX. századi újjáéledés
 - **Várépítészet** → romantikus építészet
 - **Templomépítészet** → katolikus hagyományok
+
+---
+
+![Ókeresztény és bizánci művészet](../base/kepek/images/4_Az%20ókeresztény%20és%20bizánci%20művészet_KÉP.png)

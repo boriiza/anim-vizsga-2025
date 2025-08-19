@@ -239,3 +239,7 @@
 - **Oktatás** → művészeti iskolák
 - **Kulturális örökség** → műemlékek védelme
 - **Művészettörténet** → tudományos kutatás
+
+---
+
+![Bauhaus](../base/kepek/images/19_Bauhaus_KÉP.png)

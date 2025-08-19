@@ -136,3 +136,7 @@
 - **Történelmi rekonstrukció** → barokk épületek
 - **Művészettörténet** → tudományos kutatás
 - **Turizmus** → barokk emlékek látogatása
+
+---
+
+![Barokk szobrászat](../base/kepek/images/10_Barokk%20szobrászat_KÉP.png)

@@ -63,3 +63,7 @@
   - **Dór** – egyszerű, masszív, súlyos  
   - **Ión** – kecsesebb, volutás fejezet  
   - **Korinthoszi** – díszes, akantuszlevél-motívum  
+
+---
+
+![Ókori görög művészet](../base/kepek/images/2_Az%20ókori%20görög%20művészet_KÉP.png)

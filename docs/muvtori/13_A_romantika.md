@@ -154,3 +154,7 @@
 - **Neogótikus stílus** → gótika újjáéledése
 - **Történelmi rekonstrukció** → romantikus épületek
 - **Turizmus** → romantikus emlékek látogatása
+
+---
+
+![Impresszionizmus](../base/kepek/images/13_Impresszionuzmus_KÉP.png)

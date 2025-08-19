@@ -64,3 +64,7 @@
 - Görög és római művészetben megjelenő motívumok
 - Szfinxek, obeliszkek átvétele
 - Régészeti leletek XIX. sz.-i felfedezései → európai művészet és építészet inspirációja
+
+---
+
+![Az ókori Mezopotámia és Egyiptom](../base/kepek/images/1_Az%20ókori%20Mezopotámia%20és%20Egyiptom_KÉP.png)

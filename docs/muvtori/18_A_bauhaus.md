@@ -214,3 +214,7 @@
 - **Múzeumok** → modern gyűjtemények
 - **Oktatás** → művészeti iskolák
 - **Kulturális örökség** → műemlékek védelme
+
+---
+
+![Dada és Szürrealizmus](../base/kepek/images/18_Dada_Szürrealizmus_KÉP.png)

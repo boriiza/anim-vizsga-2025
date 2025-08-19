@@ -152,3 +152,7 @@
 - **Történelmi rekonstrukció** → impresszionista művek
 - **Művészettörténet** → tudományos kutatás
 - **Turizmus** → impresszionista emlékek látogatása
+
+---
+
+![Posztimpresszionizmus](../base/kepek/images/14_Posztimpresszionuzmus_KÉP.png)

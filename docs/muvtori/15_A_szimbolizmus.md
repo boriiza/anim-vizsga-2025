@@ -169,3 +169,7 @@
 - **Művészettörténet** → tudományos kutatás
 - **Turizmus** → szecessziós emlékek látogatása
 - **Örökségvédelem** → műemlékek védelme
+
+---
+
+![Magyar festészet 19. század](../base/kepek/images/15_Magyar%20festészet%2019.%20század_KÉP.png)

@@ -116,3 +116,7 @@
 - **Neogótikus stílus** → XIX-XX. század
 - **Eklektikus építészet** → stílusok keveredése
 - **Városrekonstrukció** → történelmi városok
+
+---
+
+![Gótika művészete](../base/kepek/images/6_A%20gótika%20művészete_KÉP.png)

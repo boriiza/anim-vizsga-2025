@@ -127,3 +127,7 @@
 - **Neorokokó stílus** → XIX-XX. század
 - **Történelmi rekonstrukció** → barokk és rokokó művek
 - **Művészettörténet** → tudományos kutatás
+
+---
+
+![Klasszicizmus és romantika](../base/kepek/images/11_Klasszicizmus%20és%20romantika_KÉP.png)

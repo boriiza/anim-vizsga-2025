@@ -123,3 +123,7 @@
 - **Neogótikus stílus** → XIX-XX. század
 - **Eklektikus művészet** → stílusok keveredése
 - **Történelmi rekonstrukció** → középkori művészet újjáéledése
+
+---
+
+![Itáliai reneszánsz művészet - trecento és quattrocento](../base/kepek/images/7_Itáliai%20reneszánsz%20művészet_trecento_quattrocento_KÉP.png)

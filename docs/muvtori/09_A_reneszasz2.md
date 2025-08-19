@@ -150,3 +150,7 @@
 - **Neoreneszánsz** → XIX. századi újjáéledés
 - **Történelmi rekonstrukció** → reneszánsz épületek
 - **Művészettörténet** → tudományos kutatás
+
+---
+
+![Barokk művészet](../base/kepek/images/9_Barokk%20művészet_KÉP.png)

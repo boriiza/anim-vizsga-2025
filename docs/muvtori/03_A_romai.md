@@ -169,3 +169,7 @@
 - **Jogrendszer** - modern jog alapjai
 - **Közigazgatás** - birodalmi struktúra
 - **Művészeti kánonok** - klasszicizmus alapja
+
+---
+
+![Ókori Róma művészete](../base/kepek/images/3_Az%20ókori%20Róma%20művészete_KÉP.png)

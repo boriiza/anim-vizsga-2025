@@ -162,3 +162,7 @@
 - **Múzeumok** → avantgárd gyűjtemények
 - **Oktatás** → művészeti iskolák
 - **Kulturális örökség** → műemlékek védelme
+
+---
+
+![Avantgárd](../base/kepek/images/17_Avantgarde_KÉP.png)

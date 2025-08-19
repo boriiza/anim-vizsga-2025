@@ -227,3 +227,7 @@
 - **Művészettörténet** → tudományos kutatás
 - **Technológiai fejlődés** → technikai újítások
 - **Társadalmi változások** → társadalmi fejlődés
+
+---
+
+![Neodadaizmus, Pop Art](../base/kepek/images/20_Neodadaizmus,%20Pop%20Art_KÉP.png)

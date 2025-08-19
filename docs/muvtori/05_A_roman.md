@@ -141,3 +141,7 @@
 - **Neoromán stílus** → XIX. századi újjáéledés
 - **Várépítészet** → romantikus építészet
 - **Templomépítészet** → katolikus hagyományok
+
+---
+
+![Román kor művészete](../base/kepek/images/5_A%20román%20kor%20művészete_KÉP.png)
