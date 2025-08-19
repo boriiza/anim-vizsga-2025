@@ -32,10 +32,10 @@ theme:
 nav:
   - Kezdőlap: index.md
   - Művtöri:
-    - 1A - Ókori Egyiptom: muvtori/01_egyiptom.md
-    - 2A - Ókori Görögország. tétel: muvtori/02_gorog.md
-    - 3A - Ókeresztény és bizánci művészet: muvtori/03_tetel.md
-    - 4A - Román stílus: muvtori/04_tetel.md
+    - 1A - Ókori Egyiptom: muvtori/01_A_egyiptom.md
+    - 2A - Ókori Görögország. tétel: muvtori/02_A_gorog.md
+    - 3A - Ókeresztény és bizánci művészet: muvtori/03_A_romai.md
+    - 4A - Román stílus: muvtori/04_A_kereszteny.md
     - 5. tétel: muvtori/05_tetel.md
     - 6. tétel: muvtori/06_tetel.md
     - 7. tétel: muvtori/07_tetel.md
