@@ -1,0 +1,89 @@
+site_name: Művtöri & Szaktöri Tételek
+site_description: 20-20 tétel művészettörténethez és szakmai történelemhez
+site_url: https://<felhasznalonev>.github.io/<repo-nev>/
+repo_url: https://github.com/<felhasznalonev>/<repo-nev>
+repo_name: <felhasznalonev>/<repo-nev>
+
+theme:
+  name: material
+  language: hu
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.share
+    - toc.integrate
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Sötét mód
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Világos mód
+
+nav:
+  - Kezdőlap: index.md
+  - Művtöri:
+    - A) Ókori Egyiptom: muvtori/01_egyiptom.md
+    - 2. tétel: muvtori/02_tetel.md
+    - 3. tétel: muvtori/03_tetel.md
+    - 4. tétel: muvtori/04_tetel.md
+    - 5. tétel: muvtori/05_tetel.md
+    - 6. tétel: muvtori/06_tetel.md
+    - 7. tétel: muvtori/07_tetel.md
+    - 8. tétel: muvtori/08_tetel.md
+    - 9. tétel: muvtori/09_tetel.md
+    - 10. tétel: muvtori/10_tetel.md
+    - 11. tétel: muvtori/11_tetel.md
+    - 12. tétel: muvtori/12_tetel.md
+    - 13. tétel: muvtori/13_tetel.md
+    - 14. tétel: muvtori/14_tetel.md
+    - 15. tétel: muvtori/15_tetel.md
+    - 16. tétel: muvtori/16_tetel.md
+    - 17. tétel: muvtori/17_tetel.md
+    - 18. tétel: muvtori/18_tetel.md
+    - 19. tétel: muvtori/19_tetel.md
+    - 20. tétel: muvtori/20_tetel.md
+  - Szaktöri:
+    - 1. tétel: szaktori/01_tetel.md
+    - 2. tétel: szaktori/02_tetel.md
+    - 3. tétel: szaktori/03_tetel.md
+    - 4. tétel: szaktori/04_tetel.md
+    - 5. tétel: szaktori/05_tetel.md
+    - 6. tétel: szaktori/06_tetel.md
+    - 7. tétel: szaktori/07_tetel.md
+    - 8. tétel: szaktori/08_tetel.md
+    - 9. tétel: szaktori/09_tetel.md
+    - 10. tétel: szaktori/10_tetel.md
+    - 11. tétel: szaktori/11_tetel.md
+    - 12. tétel: szaktori/12_tetel.md
+    - 13. tétel: szaktori/13_tetel.md
+    - 14. tétel: szaktori/14_tetel.md
+    - 15. tétel: szaktori/15_tetel.md
+    - 16. tétel: szaktori/16_tetel.md
+    - 17. tétel: szaktori/17_tetel.md
+    - 18. tétel: szaktori/18_tetel.md
+    - 19. tétel: szaktori/19_tetel.md
+    - 20. tétel: szaktori/20_tetel.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.superfences
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<felhasznalonev>
+      name: GitHub
