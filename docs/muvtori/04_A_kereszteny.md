@@ -1,74 +1,99 @@
-# 4A - A román stílus építészete és művészete
+# 4A - Az ókeresztény és bizánci művészet
 
 ## 1. Történelmi háttér és társadalmi körülmények
-- **Időszak**: i.sz. X-XIII. század (1000-1300)
-- **Térség**: Nyugat-Európa, Közép-Európa, Észak-Európa
-- **Társadalmi változások**: feudális rendszer kialakulása, városok fejlődése
-- **Vallási tényezők**: a katolikus egyház hatalmának növekedése
-- **Keresztes háborúk** → kulturális kapcsolatok a Kelettel
+- **Időszak**: i.sz. I-XV. század (1-1453)
+- **Térség**: Római Birodalom, Bizánci Birodalom, Közel-Kelet
+- **Társadalmi változások**: kereszténység elterjedése, Római Birodalom felosztása
+- **Vallási tényezők**: a kereszténység államvallássá válása, egyházépítészet fejlődése
+- **Bizánci Birodalom** → keleti görög hagyományok és kereszténység ötvözése
 
-## 2. A román építészet jellemzői
+### 1.1 Kulcsszavak és fogalmak
+- **Constantinus római császár** → keresztény vallásgyakorlás engedélyezése
+- **Egyistenhit (monoteizmus)** → messiás, próféták, apostolok, misszió, evangélium
+- **Szentháromság** → üdvösség-kárhozat, Biblia (Ószövetség, Újszövetség)
+- **Katakombák** → imaházak, temetőkápolnák, keresztelőkápolnák, mauzóleumok
+- **Szarkofágok** → harangtornyok, kolostorépítészet
+
+### 1.2 A Római Birodalom kettészakadása
+- **Nyugaton**: ókeresztény művészet (IV-X. század) - a római katolikus egyház kiépülése
+- **Kelet-római birodalom**: Bizánci császárság (V-XIII. század) - Balkán félsziget, Kis-Ázsia, Szíria, Palesztina, Egyiptom
+- **Görög-keleti ortodox egyház** → pápa-császárság (cezaropapizmus)
+
+## 2. Az ókeresztény építészet jellemzői
 
 ### 2.1 Építészeti stílusjegyek
-- **Masszív, erős falak** → védelmi funkció
-- **Kis ablakok** → félköríves vagy csúcsíves záródás
-- **Vastag pillérek** → a súlyos boltozatok tartása
-- **Félköríves boltívek** → dongaboltozat, keresztboltozat
-- **Toronyépítészet** → harangtornyok, védőtornyok
-
-### 2.2 Templomépítészet
-- **Bazilika típus** → ókeresztény hagyományok folytatása
+- **Bazilika típus** → ókori római hagyományok folytatása
 - **Háromhajós elrendezés** → főhajó és mellékhajók
 - **Transept** → kereszt alakú alaprajz
 - **Apszis** → félkör alakú szentély
 - **Kripta** → föld alatti sírkamra
-- **Portál** → díszes bejárat
+- **Portál** → egyszerű bejárat
 
-### 2.3 Kolostorépítészet
-- **Keresztudvar** → kolostor központja
-- **Refektórium** → étkező terem
-- **Dormitórium** → alvóhely
-- **Könyvtár** → kéziratok őrzése
-- **Műhelyek** → kézművesség, írás
+### 2.2 Templomépítészet
+- **Bazilika típus** → ókori római hagyományok folytatása
+- **Háromhajós elrendezés** → főhajó és mellékhajók
+- **Transept** → kereszt alakú alaprajz
+- **Apszis** → félkör alakú szentély
+- **Kripta** → föld alatti sírkamra
+- **Portál** → egyszerű bejárat
 
-## 3. Híres román építmények
+### 2.3 Bizánci építészet
+- **Kereszt alakú alaprajz** → görög kereszt
+- **Kupola** → központi kupola a templom tetején
+- **Mozsaikok** → falak és boltozatok díszítése
+- **Ikonosztáz** → szentképek elválasztó fal
+- **Narthex** → előcsarnok
 
-### 3.1 Franciaország
-- **Cluny apátság** → legnagyobb román templom
-- **Saint-Sernin bazilika** (Toulouse) → zarándoktemplom
-- **Vézelay** → zarándokút állomás
-- **Saint-Trophime** (Arles) → portál díszítése
+### 2.4 Ókeresztény bazilika részletei
+- **Torony nélküli épület** → átrium, hosszház, szentély
+- **Három és öthajós épülettér** → fedélszék, kazettás síkmennyezet
+- **Árkádsor** → apszis, oltár, lizéna
+- **Keresztelőkápolna** → baptisztérium, mauzóleum
 
-### 3.2 Németország
-- **Speyer dóm** → császári templom
-- **Worms dóm** → román stílus példája
-- **Mainz dóm** → három apszisos elrendezés
-- **Trier dóm** → ókeresztény alapokon
+## 3. Híres ókeresztény és bizánci építmények
 
-### 3.3 Itália
-- **San Miniato al Monte** (Firenze) → geometrikus díszítés
-- **San Michele** (Pavia) → lombard stílus
-- **Modena dóm** → Wiligelmo domborművei
-- **Pisa dóm** → pisai román stílus
+### 3.1 Ókeresztény építmények
+- **Ó Szent Péter bazilika** (Róma) → első nagy keresztény templom
+- **Lateráni bazilika** (Róma) → pápai templom
+- **Santa Maria Maggiore** (Róma) → Mária tiszteletére épült
+- **San Paolo fuori le Mura** (Róma) → Pál apostol temploma
+- **Santa Sabina bazilika** (Róma) → ókeresztény példa
 
-### 3.4 Spanyolország
-- **Santiago de Compostela** → zarándokút célpontja
-- **San Isidoro** (León) → sírkamra festményei
-- **San Martín** (Frómista) → tiszta román stílus
+### 3.2 Bizánci építmények
+- **Hagia Sophia** (Konstantinápoly) → legnagyobb bizánci templom
+- **San Vitale** (Ravenna) → mozaikokkal díszített
+- **Szent Márk templom** (Velence) → bizánci hatású
+- **Daphni kolostor** (Athén) → mozaikok
 
-## 4. A román szobrászat
+### 3.3 Ravenna
+- **Sant'Apollinare Nuovo** → ariánus templom
+- **Sant'Apollinare in Classe** → mozaikok
+- **Baptisztérium** → ortodox keresztelőkápolna
+- **Mausoleum of Galla Placidia** → sírkamra
 
-### 4.1 Portál díszítés
-- **Tympanon** → félkör alakú mező a bejárat felett
-- **Archivolt** → koncentrikus ívek díszítése
-- **Oszlopok** → figurális díszítés
-- **Témák**: Krisztus második eljövetele, Utolsó ítélet
+### 3.4 Konstantinápoly
+- **Hagia Irene** → első bizánci templom
+- **Chora templom** → mozaikok
+- **Pammakaristos templom** → palaiologos stílus
 
-### 4.2 Híres szobrászati művek
-- **Moissac portál** → próféták, apostolok
-- **Vézelay tympanon** → Pünkösd jelenete
-- **Autun portál** → Gislebertus munkája
-- **Modena dóm** → Wiligelmo domborművei
+### 3.5 Katakombák és temetőkápolnák
+- **Domitilla katakomba** (Róma) → Hal kenyeres kosárral
+- **Callixtus katakomba** (Róma) → Szt. Cecília kriptája
+- **St. Clemente bazilika** (Róma) → apszis mozaikja
+
+## 4. Az ókeresztény és bizánci szobrászat
+
+### 4.1 Ókeresztény szobrászat
+- **Sarkofágok** → sírkövek díszítése
+- **Oltárkép** → szentképek
+- **Kereszt** → Krisztus ábrázolása
+- **Témák**: Krisztus élete, apostolok, szentek
+
+### 4.2 Bizánci szobrászat
+- **Reliefek** → falak díszítése
+- **Ikonok** → szentképek
+- **Kereszt** → díszített kereszt
+- **Oltárkép** → ikonosztáz
 
 ### 4.3 Stílusjegyek
 - **Hierarchikus arányok** → rang szerinti méretezés
@@ -76,18 +101,25 @@
 - **Geometrikus formák** → egyszerűség, tisztaság
 - **Frontális beállítás** → merev, szimmetrikus
 
-## 5. A román festészet
+### 4.4 Híres szobrászati művek
+- **Theodorus püspök szarkofágja** (Róma) → ókeresztény példa
+- **Agnellus püspök szószéke** (Ravenna) → domborművek
+- **Oszlopfők** → fa, elefántcsont faragások
+- **Szószékek** → ereklyetartók, miniatúrafestészet
 
-### 5.1 Freskók és faliképek
-- **Apszis festmények** → Krisztus, Mária, szentek
+## 5. Az ókeresztény és bizánci festészet
+
+### 5.1 Ókeresztény festészet
+- **Freskók** → falak díszítése
 - **Faliképek** → bibliai történetek
 - **Kripta festmények** → sírkamrák díszítése
+- **Kódexek** → kéziratok illusztrációi
 
-### 5.2 Híres festmények
-- **Berzé-la-Ville** → Cluny apátság festményei
-- **Tahull** → Katalónia, Krisztus Pantokrátor
-- **San Isidoro** (León) → sírkamra festményei
-- **Saint-Savin-sur-Gartempe** → bibliai jelenetek
+### 5.2 Bizánci festészet
+- **Mozsaikok** → falak és boltozatok díszítése
+- **Ikonok** → szentképek
+- **Freskók** → falak díszítése
+- **Miniatúrák** → kéziratok díszítése
 
 ### 5.3 Stílusjegyek
 - **Síkfelületi ábrázolás** → perspektíva hiánya
@@ -95,52 +127,65 @@
 - **Kontúros rajz** → erős vonalak
 - **Hierarchikus kompozíció** → központi alakok
 
+### 5.4 Mozsaikművészet
+- **San Apollinare in Classe bazilika** → szentély mozaikjai
+- **San Vitale templom** → Justinianus császár és kísérete
+- **San Marco templom** (Velence) → bizánci hatású mozaikok
+- **St. Clemente bazilika** (Róma) → apszis mozaikja
+- **Santa Constanza mauzóleum** → Galla Placidia
+- **San Ambrogio kapu** (Milánó) → Jónás története
+
 ## 6. Kézművesség és díszítőművészet
 
-### 6.1 Iparművészet
+### 6.1 Ókeresztény iparművészet
 - **Ékszerkészítés** → arany, ezüst, drágakövek
 - **Textilművészet** → brokátok, gobelin
 - **Üvegművészet** → ablaküvegek, edények
 - **Fafaragás** → padok, székek, ajtók
 
-### 6.2 Híres művek
-- **Limoges emailek** → champlevé technika
-- **Köln relikviáriumok** → aranyozott réz
-- **Milanó ereklyetartó** → Ambrogio mester
-- **Bamberg lovas** → bronz szobor
+### 6.2 Bizánci iparművészet
+- **Mozsaikok** → üveg, kő, arany
+- **Ikonok** → fafaragás, festés
+- **Ékszerkészítés** → arany, ezüst, drágakövek
+- **Textilművészet** → selyem, brokátok
 
-## 7. Magyarországi román emlékek
+### 6.3 Híres művek
+- **San Apollinare in Classe bazilika** → Ravenna, mozaikok
+- **San Vitale templom** → Ravenna, Justinianus császár és kísérete
+- **San Marco templom** → Velence, bizánci hatású
+- **St. Clemente bazilika** → Róma, apszis mozaikja
+- **Santa Constanza mauzóleum** → Róma, Galla Placidia
+- **San Ambrogio kapu** → Milánó, Jónás története
+- **Theodorus püspök szarkofágja** → Róma
+- **Agnellus püspök szószéke** → Ravenna
+
+## 7. Magyarországi ókeresztény emlékek
 
 ### 7.1 Pécs
-- **Pécsi bazilika** → román alapokon
+- **Pécsi bazilika** → ókeresztény maradványok
 - **Sírkamra festmények** → késő római hatás
-- **Kripta** → román stílusú
+- **Kripta** → ókeresztény stílusú
 
-### 7.2 Esztergom
-- **Esztergomi bazilika** → román alapok
-- **Kápolna** → román stílusú maradványok
+### 7.2 Óbuda
+- **Cella trichora kápolna** → ókeresztény épület
+- **Keresztelőkápolna** → baptisztérium
 
-### 7.3 Ják
-- **Jáki templom** → tiszta román stílus
-- **Portál díszítés** → geometrikus minták
-- **Apszis** → félkör alakú szentély
-
-## 8. A román stílus hatása és öröksége
+## 8. Az ókeresztény és bizánci művészet hatása és öröksége
 
 ### 8.1 Művészeti hatás
-- **Gótika előfutára** → boltíves szerkezetek
+- **Gótika előfutára** → bazilika típus
 - **Kupola építészet** → bizánci hatás
-- **Toronyépítészet** → védelmi funkció
+- **Ikonfestészet** → keleti hagyományok
 
 ### 8.2 Kulturális örökség
-- **Feudális társadalom** → várépítészet
+- **Kereszténység** → egyházépítészet
 - **Vallási építészet** → templomok, kolostorok
-- **Zarándokutak** → kulturális kapcsolatok
+- **Bizánci kultúra** → keleti kapcsolatok
 
 ### 8.3 Modern hatás
-- **Neoromán stílus** → XIX. századi újjáéledés
-- **Várépítészet** → romantikus építészet
-- **Templomépítészet** → katolikus hagyományok
+- **Neobizánci stílus** → XIX. századi újjáéledés
+- **Ortodox templomok** → keleti hagyományok
+- **Ikonfestészet** → vallási művészet
 
 ---
 
