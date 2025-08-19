@@ -32,8 +32,8 @@ theme:
 nav:
   - Kezdőlap: index.md
   - Művtöri:
-    - 1A) Ókori Egyiptom: muvtori/01_egyiptom.md
-    - 2. tétel: muvtori/02_tetel.md
+    - 1A - Ókori Egyiptom: muvtori/01_egyiptom.md
+    - 2A - Ókori Görögország. tétel: muvtori/02_gorog.md
     - 3. tétel: muvtori/03_tetel.md
     - 4. tétel: muvtori/04_tetel.md
     - 5. tétel: muvtori/05_tetel.md
