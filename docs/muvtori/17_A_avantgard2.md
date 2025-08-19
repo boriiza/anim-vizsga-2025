@@ -165,4 +165,4 @@
 
 ---
 
-![Avantgárd](../base/kepek/images/17_Avantgarde_KÉP.png)
+![Avantgárd](../../base/kepek/images/17_Avantgarde_KÉP.png)

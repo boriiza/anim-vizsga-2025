@@ -157,4 +157,4 @@
 
 ---
 
-![Impresszionizmus](../base/kepek/images/13_Impresszionuzmus_KÉP.png)
+![Impresszionizmus](../../base/kepek/images/13_Impresszionuzmus_KÉP.png)

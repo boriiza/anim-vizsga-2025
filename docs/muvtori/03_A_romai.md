@@ -172,4 +172,4 @@
 
 ---
 
-![Ókori Róma művészete](../base/kepek/images/3_Az%20ókori%20Róma%20művészete_KÉP.png)
+![Ókori Róma művészete](../../base/kepek/images/3_Az%20ókori%20Róma%20művészete_KÉP.png)

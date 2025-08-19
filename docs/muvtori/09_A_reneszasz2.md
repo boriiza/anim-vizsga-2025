@@ -153,4 +153,4 @@
 
 ---
 
-![Barokk művészet](../base/kepek/images/9_Barokk%20művészet_KÉP.png)
+![Barokk művészet](../../base/kepek/images/9_Barokk%20művészet_KÉP.png)

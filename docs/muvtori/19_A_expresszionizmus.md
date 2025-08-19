@@ -242,4 +242,4 @@
 
 ---
 
-![Bauhaus](../base/kepek/images/19_Bauhaus_KÉP.png)
+![Bauhaus](../../base/kepek/images/19_Bauhaus_KÉP.png)

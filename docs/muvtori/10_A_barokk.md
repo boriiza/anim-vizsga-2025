@@ -139,4 +139,4 @@
 
 ---
 
-![Barokk szobrászat](../base/kepek/images/10_Barokk%20szobrászat_KÉP.png)
+![Barokk szobrászat](../../base/kepek/images/10_Barokk%20szobrászat_KÉP.png)

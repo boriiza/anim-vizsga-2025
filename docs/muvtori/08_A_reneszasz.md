@@ -133,4 +133,4 @@
 
 ---
 
-![Itáliai reneszánsz művészet - cinquecento](../base/kepek/images/8_Itáliai%20reneszánsz%20művészet_cinquecento_KÉP.png)
+![Itáliai reneszánsz művészet - cinquecento](../../base/kepek/images/8_Itáliai%20reneszánsz%20művészet_cinquecento_KÉP.png)
