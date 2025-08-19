@@ -6,7 +6,8 @@
 - **Filozófia, természettudomány, költészet, színház, zene, képzőművészetek** → az európai kultúra alapjai  
 
 ## 2. Görög hitvilág és mitológia
-- **Politeizmus**, antropomorf istenek (emberi alakban, halhatatlanok)  
+- **Politeizmus**, antropomorf istenek (emberi alakban, halhatatlanok)
+  
   - **Zeusz** (főisten, villám)  
   - **Héra** (család, házasság)  
   - **Hadész** (alvilág)  
@@ -27,7 +28,8 @@
 ### 2. Archaikus kor (i.e. VII–VI. sz.)
 - Athénban rabszolgatartó társadalom, Perzsa háborúk kezdete  
 - **Építészet**: Héra-templom  
-- **Szobrászat**:  
+- **Szobrászat**:
+
   - Életnagyságú szobrok, áldozati ajándékok  
   - **Archaikus mosoly**  
   - **Kúrosz** (ruhátlan férfi) és **Koré** (ruhás nőalak) – oszloppótló szobrok  
@@ -35,10 +37,12 @@
 
 ### 3. Klasszikus kor (i.e. V–IV. sz.)
 - **Periklész kora** – Athén fénykora, Peloponnészoszi háború, Nagy Sándor hódításai  
-- **Építészet**:  
+- **Építészet**:
+
   - Athéni Akropolisz: Propülaia, Parthenón, Niké-templom, Erechtheion  
   - Delphoi Apollón-templom  
-- **Szobrászat**:  
+- **Szobrászat**:
+
   - Az ember áll a középpontban (antropomorf szemlélet)  
   - Anatómiai pontosság, kontraposzt, arányok, harmónia, kánonok  
   - Pheidiasz: Pallasz Athéné szobra, Panathénaia fríz (izokefália – fejek egy magasságban)  
@@ -50,7 +54,8 @@
 - Nagy Sándor birodalmának felbomlása → görög kultúra keveredése  
 - **Építészet**: színházak, piacterek, stadionok, városfalak  
 - **Pergamon**: Zeusz-oltár (Berlinben rekonstruálva), domborművek – gigászok harca  
-- **Szobrászat**: szenvedély, drámaiság, mozgalmasság, teatralitás  
+- **Szobrászat**: szenvedély, drámaiság, mozgalmasság, teatralitás
+
   - Szamothrakéi Niké (győzelmi emlékmű)  
   - Laokoón-csoport (dráma, mozgalmasság)  
   - Milói Vénusz (idealizált női szépség)  
@@ -59,7 +64,8 @@
 
 ## 4. Építészet és oszloprendek
 - **Templom felépítése**: lépcsős lábazat, oszlopsor, nyaktagozat–párkány (fríz, triglif, metopé), timpanon  
-- **Oszloprendek**:  
+- **Oszloprendek**:
+
   - **Dór** – egyszerű, masszív, súlyos  
   - **Ión** – kecsesebb, volutás fejezet  
   - **Korinthoszi** – díszes, akantuszlevél-motívum  
