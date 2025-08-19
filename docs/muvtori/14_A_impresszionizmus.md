@@ -155,4 +155,4 @@
 
 ---
 
-![Posztimpresszionizmus](../../base/kepek/images/14_Posztimpresszionuzmus_KÉP.png)
+![Posztimpresszionizmus](../images/14_Posztimpresszionuzmus_KÉP.png)

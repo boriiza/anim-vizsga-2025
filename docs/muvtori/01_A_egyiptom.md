@@ -67,4 +67,4 @@
 
 ---
 
-![Az ókori Mezopotámia és Egyiptom](../../base/kepek/images/1_Az%20ókori%20Mezopotámia%20és%20Egyiptom_KÉP.png)
+![Az ókori Mezopotámia és Egyiptom](../images/1_Az%20ókori%20Mezopotámia%20és%20Egyiptom_KÉP.png)

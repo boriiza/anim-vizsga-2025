@@ -119,4 +119,4 @@
 
 ---
 
-![Gótika művészete](../../base/kepek/images/6_A%20gótika%20művészete_KÉP.png)
+![Gótika művészete](../images/6_A%20gótika%20művészete_KÉP.png)

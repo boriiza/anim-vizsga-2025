@@ -144,4 +144,4 @@
 
 ---
 
-![Ókeresztény és bizánci művészet](../../base/kepek/images/4_Az%20ókeresztény%20és%20bizánci%20művészet_KÉP.png)
+![Ókeresztény és bizánci művészet](../images/4_Az%20ókeresztény%20és%20bizánci%20művészet_KÉP.png)

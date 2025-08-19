@@ -189,4 +189,4 @@
 
 ---
 
-![Szimbolizmus, Szecesszió, Csontváry](../../base/kepek/images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)
+![Szimbolizmus, Szecesszió, Csontváry](../images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)

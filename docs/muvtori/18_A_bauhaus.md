@@ -217,4 +217,4 @@
 
 ---
 
-![Dada és Szürrealizmus](../../base/kepek/images/18_Dada_Szürrealizmus_KÉP.png)
+![Dada és Szürrealizmus](../images/18_Dada_Szürrealizmus_KÉP.png)

@@ -148,4 +148,4 @@
 
 ---
 
-![Realizmus](../../base/kepek/images/12_Realizmus_KÉP.png)
+![Realizmus](../images/12_Realizmus_KÉP.png)

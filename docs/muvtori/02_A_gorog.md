@@ -66,4 +66,4 @@
 
 ---
 
-![Ókori görög művészet](../../base/kepek/images/2_Az%20ókori%20görög%20művészet_KÉP.png)
+![Ókori görög művészet](../images/2_Az%20ókori%20görög%20művészet_KÉP.png)

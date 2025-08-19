@@ -126,4 +126,4 @@
 
 ---
 
-![Itáliai reneszánsz művészet - trecento és quattrocento](../../base/kepek/images/7_Itáliai%20reneszánsz%20művészet_trecento_quattrocento_KÉP.png)
+![Itáliai reneszánsz művészet - trecento és quattrocento](../images/7_Itáliai%20reneszánsz%20művészet_trecento_quattrocento_KÉP.png)

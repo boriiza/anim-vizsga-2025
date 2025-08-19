@@ -130,4 +130,4 @@
 
 ---
 
-![Klasszicizmus és romantika](../../base/kepek/images/11_Klasszicizmus%20és%20romantika_KÉP.png)
+![Klasszicizmus és romantika](../images/11_Klasszicizmus%20és%20romantika_KÉP.png)
