@@ -1,8 +1,8 @@
 site_name: Művtöri & Szaktöri Tételek
 site_description: 20-20 tétel művészettörténethez és szakmai történelemhez
-site_url: https://<felhasznalonev>.github.io/<repo-nev>/
-repo_url: https://github.com/<felhasznalonev>/<repo-nev>
-repo_name: <felhasznalonev>/<repo-nev>
+site_url: https://boriiza.github.io/anim-vizsga-2025/
+repo_url: https://github.com/boriiza/anim-vizsga-2025
+repo_name: boriiza/anim-vizsga-2025
 
 theme:
   name: material
@@ -85,5 +85,5 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<felhasznalonev>
+      link: https://github.com/boriiza
       name: GitHub
