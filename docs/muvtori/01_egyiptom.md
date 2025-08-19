@@ -10,13 +10,11 @@
 
 ## 2. Hiedelemvilág
 - **Többistenhit** (politeizmus)
-
   - **Ré** – napisten
   - **Hórusz** – ég és királyság istene
   - **Ízisz** – termékenység és anyaság
   - **Ozirisz** – túlvilág ura
 - **Halottkultusz**
-
   - **Mumifikálás** (canopus-edények, portrék)
   - **Usebti-szobrok** a túlvilági szolgálatra
   - **Halotti könyv** varázsszövegei
@@ -32,7 +30,6 @@
   - Masztaba → Lépcsős piramis (Dzsószer – Szakkara) → Gízai piramisok (Kheopsz, Khephrén, Mükerinosz)
   - **Sziklasírok** – Királyok völgye
 - **Templomépítészet**
-
   - Karnak és luxori templomok
   - Szfinx és obeliszkek
   - **Jellemzők**: monumentális méretek, kőoszlopok, hieroglif díszítés
@@ -40,11 +37,9 @@
 ## 5. Szobrászat
 - **Cél**: az örökkévalóságnak, halottkultusz részeként
 - **Stílus**
-
   - Idealizált, szimmetrikus, frontalitás
   - „Legnagyobb felületek törvénye"
 - **Híres művek**
-
   - Khephrén fáraó szobra
   - Mükerinosz hitvesével
   - Ülő írnok szobra
@@ -52,7 +47,6 @@
 
 ## 6. Festészet
 - **Jellemzők**
-
   - Felületi törvény – a legjellemzőbb oldal nézetben
   - Hierarchikus arányok (rang → méret)
   - Élénk színek, síkfelület, kontúros ábrázolás
@@ -62,7 +56,6 @@
 ## 7. Tárgykultúra, kézművesség
 - Fejlett kézműipar: üvegművesség, ötvösség
 - **Leletek**
-
   - Arany sólyomfej
   - Ékszerek, amulettek
 - **Tudományok**: matematika, csillagászat, geometria → építészet alapja
