@@ -17,14 +17,14 @@ theme:
     - toc.integrate
   palette:
     - scheme: default
-      primary: amber
-      accent: amber
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-night
         name: Sötét mód
     - scheme: slate
-      primary: amber
-      accent: amber
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Világos mód
