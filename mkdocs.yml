@@ -1,5 +1,5 @@
-site_name: Művtöri & Szaktöri Tételek
-site_description: 20-20 tétel művészettörténethez és szakmai történelemhez
+site_name: Mozgókép és animációtervező képesítő vizsga
+site_description: Művészettörténet és szaktörténet tételek kidolgozva
 site_url: https://boriiza.github.io/anim-vizsga-2025/
 repo_url: https://github.com/boriiza/anim-vizsga-2025
 repo_name: boriiza/anim-vizsga-2025
@@ -17,10 +17,14 @@ theme:
     - toc.integrate
   palette:
     - scheme: default
+      primary: amber
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Sötét mód
     - scheme: slate
+      primary: amber
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Világos mód
@@ -28,7 +32,7 @@ theme:
 nav:
   - Kezdőlap: index.md
   - Művtöri:
-    - A) Ókori Egyiptom: muvtori/01_egyiptom.md
+    - 1A) Ókori Egyiptom: muvtori/01_egyiptom.md
     - 2. tétel: muvtori/02_tetel.md
     - 3. tétel: muvtori/03_tetel.md
     - 4. tétel: muvtori/04_tetel.md
