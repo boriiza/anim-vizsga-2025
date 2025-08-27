@@ -130,4 +130,24 @@
 
 ---
 
-![Klasszicizmus és romantika](../images/11_Klasszicizmus%20és%20romantika_KÉP.png)
+![Barokk festészet](../images/10_Barokk%20szobrászat_KÉP.png)
+
+### **Felső sor**
+
+- **Gian Lorenzo Bernini – Szent Teréz extázisa** (1647–52), Róma, Cornaro-kápolna. A barokk szobrászat egyik legismertebb remekműve.
+- **Diego Velázquez – Udvarhölgyek** (Las Meninas, 1656). A spanyol barokk festészet csúcsa.
+- **Rembrandt van Rijn – Éjjeli őrjárat** (1642). Holland aranykor, drámai fény-árnyékhatásokkal.
+- **Peter Paul Rubens – Mária Medici Párizsba érkezése** (1625). Monumentális, mozgalmas barokk festmény.
+
+### **Középső sor**
+
+- **Gian Lorenzo Bernini – Lovas szobor** (pl. II. Konstantin vagy Nagy Konstantin lovasszobra, 1670 körül). Erőteljes, mozgalmas barokk bronzszobor.
+- **Diego Velázquez – X. Ince pápa portréja** (1650). Erőteljes, pszichológiailag mély portré.
+- **Bernini – Négy folyó kútja** (Fontana dei Quattro Fiumi, 1651), Piazza Navona, Róma. Lenyűgöző barokk köztéri szobrászat.
+- **Jan Vermeer – A festészet allegóriája** (1666 körül) vagy más belső enteriőr, tipikus holland barokk-intim zsáner.
+
+### **Alsó sor**
+
+- **Bécs, Graben – Barokk pestisoszlop** (Pestsäule, 1679–92). Közép-európai barokk emlékmű.
+- **Würzburgi rezidencia** (1720–44), Németország. A barokk és rokokó egyik legnagyobb palotaegyüttese.
+- **Caravaggio – Emmausi vacsora** (1601). A barokk festészet kezdete, drámai realizmussal és chiaroscuro fény-árnyékhatással.

@@ -242,4 +242,21 @@
 
 ---
 
-![Bauhaus](../images/19_Bauhaus_KÉP.png)
+![Neodadaizmus, Pop Art](../images/20_Neodadaizmus,%20Pop%20Art_KÉP.png)
+
+### **Felső sor**
+
+- **Bal felső kép: Robert Rauschenberg – Monogram** vagy más "Combine" műveire emlékeztető alkotás (Neodadaizmus / Assemblage).
+- **Középső felső kép: Andy Warhol – Marilyn Monroe sorozat** (Pop Art).
+- **Jobb felső kép: Roy Lichtenstein – Crying Girl** (1964) (Pop Art, képregényes stílus).
+
+### **Középső sor**
+
+- **Bal középső kép: Andy Warhol – Campbell's Soup Cans** (1962) (Pop Art).
+- **Középső kép: George Segal – Walk, Don't Walk** (1960-as évek) (Neodadaizmus / Realista installáció).
+- **Jobb középső kép: Chuck Close** vagy más hiperrealista festő munkája (Hiperrealizmus). Ez egy medencében fürdőző embereket ábrázoló kép.
+
+### **Alsó sor**
+
+- **Bal alsó kép: Franz Kline** – fekete-fehér absztrakt expresszionista festmény (Minimalizmushoz is kapcsolódó gesztusfestészet).
+- **Jobb alsó kép: Joseph Kosuth – One and Three Chairs** (1965) (Konceptuális művészet).

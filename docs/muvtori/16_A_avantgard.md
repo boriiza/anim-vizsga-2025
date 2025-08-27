@@ -189,4 +189,18 @@
 
 ---
 
-![Szimbolizmus, Szecesszió, Csontváry](../images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)
+![Avantgarde](../images/17_Avantgarde_KÉP.png)
+
+### **Felső sor (balról jobbra)**
+
+- **Umberto Boccioni – Formák folytonossága a térben** (Unique Forms of Continuity in Space) (1913) → Futurista szobor, a mozgás és dinamizmus kifejezése.
+- **Henri Matisse – A luxus, nyugalom és gyönyör kertje** (részlet), Fauvizmus (1904–05 körül) → Vad, élénk színekkel festett természetkép.
+- **Henri Matisse – Fekvő akt** (Blue Nude: Souvenir of Biskra) (1907) → Fauvizmus, expresszív vonalak és színek.
+- **Pablo Picasso – Avignoni kisasszonyok** (Les Demoiselles d'Avignon) (1907) → A kubizmus előfutára, a modern festészet egyik legnagyobb fordulópontja.
+
+### **Alsó sor (balról jobbra)**
+
+- **Piet Mondrian – Kompozíció rácsokkal** (korai absztrakció, 1910-es évek) → A geometrikus absztrakció és De Stijl mozgalom egyik kezdeti munkája.
+- **Der Blaue Reiter Almanach** (A Kék Lovas almanach, 1912) – borító → Vezető expresszionista csoport (Kandinszkij, Franz Marc, Klee).
+- **Wassily Kandinsky – Kompozíció / absztrakt akvarell** (1910 körül) → Az egyik első teljesen absztrakt mű, a nonfiguratív festészet indulása.
+- **Giorgio de Chirico – A nagy metafizikus terek** (Piazza d'Italia sorozat) (1910-es évek) → Metafizikus festészet, az avantgárd egyik előfutára, később a szürrealistákra is hatott.

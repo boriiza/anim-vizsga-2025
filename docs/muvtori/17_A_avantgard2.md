@@ -165,4 +165,17 @@
 
 ---
 
-![Avantgárd](../images/17_Avantgarde_KÉP.png)
+![Dada és szürrealizmus](../images/18_Dada_Szürrealizmus_KÉP.png)
+
+### **Felső sor (balról jobbra)**
+
+- **Raoul Hausmann – Mechanikus fej** (Spirit of Our Time) (1920). Dadaista fotómontázs- és assemblage-technikák.
+- **Hannah Höch – Dada színház** (Dada Dance) kollázs. A berlini dadaizmus egyik legfontosabb női alakja.
+- **Raoul Hausmann – Mechanikus fej** (Der Geist unserer Zeit) (1920). Dadaista "talált tárgyakból" összerakott szobor.
+- **Meret Oppenheim – Object** (Fur Breakfast / Szőrös csésze és csészealj) (1936). A szürrealizmus egyik ikonikus ready-made műve.
+
+### **Alsó sor (balról jobbra)**
+
+- **Dada előadás, Cabaret Voltaire, Zürich** (1916 körül). A dadaisták performanszairól fennmaradt fotó.
+- **Man Ray – Bottleneck** (Cadeau / női alak palack formában) (1920-as évek). Szürrealista ready-made.
+- **Salvador Dalí – Az emlékezet állandósága** (The Persistence of Memory) (1931). A szürrealizmus legismertebb festménye, „olvadozó órákkal".

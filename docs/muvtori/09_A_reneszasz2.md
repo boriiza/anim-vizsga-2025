@@ -153,4 +153,20 @@
 
 ---
 
-![Barokk művészet](../images/9_Barokk%20művészet_KÉP.png)
+![Itáliai reneszánsz művészet - cinquecento](../images/8_Itáliai%20reneszánsz%20művészet_cinquecento_KÉP.png)
+
+### **Felső sor**
+
+- **Andrea Palladio – Villa Rotonda, Vicenza** (1567–70 körül) → A reneszánsz építészet klasszikus példája, szimmetrikus középpontú villa.
+- **Michelangelo – Dávid** (1501–1504) → A firenzei reneszánsz szobrászat legismertebb alkotása.
+- **Michelangelo – Ádám teremtése** (1511–1512), Sixtus-kápolna freskója, Vatikán → A magas reneszánsz festészet egyik csúcspontja.
+- **Raffaello – Sixtusi Madonna** (1512–1513) → Az olasz reneszánsz ikonikus Madonnája, alul a híres „puttókkal".
+- **Leonardo da Vinci** (bronzzal tervezett, de később készült bronzlovas szobor Leonardo tervei alapján) → A firenzei és milánói reneszánsz szobrászati hagyományát tükrözi.
+
+### **Alsó sor**
+
+- **Raffaello – Athéni iskola** (1509–1511), Vatikán, Stanza della Segnatura → Az antik filozófia és a reneszánsz humanizmus szintézise.
+- **Michelangelo – Utolsó ítélet** (1536–1541), Sixtus-kápolna hátsó falán → A manierizmusba hajló monumentális freskó.
+- **Giambologna – Szabin nők elrablása** (1583), Firenze → A manierizmus szobrászatának remekműve, spirálisan csavarodó kompozícióval.
+- **Giuseppe Arcimboldo – Nyár** (1563) → A manierizmus egyik különc mestere, emberi portré gyümölcsökből és növényekből.
+- **Bronzino – Vénusz, Cupido, Bolondság és Idő** (1546 körül) → A manierizmus festészetének szimbolikus, allegorikus példája.

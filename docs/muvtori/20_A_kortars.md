@@ -229,5 +229,3 @@
 - **Társadalmi változások** → társadalmi fejlődés
 
 ---
-
-![Neodadaizmus, Pop Art](../images/20_Neodadaizmus,%20Pop%20Art_KÉP.png)

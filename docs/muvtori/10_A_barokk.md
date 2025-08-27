@@ -139,4 +139,22 @@
 
 ---
 
-![Barokk szobrászat](../images/10_Barokk%20szobrászat_KÉP.png)
+![Barokk építészet](../images/9_Barokk%20művészet_KÉP.png)
+
+### **Felső sor**
+
+- **Francesco Borromini – San Carlo alle Quattro Fontane** (1638–1641), alaprajz → A római barokk építészet egyik leginnovatívabb temploma, hullámzó homlokzattal.
+- **San Carlo alle Quattro Fontane, homlokzat** (Borromini) → A barokk dinamizmus jellegzetes példája.
+- **Szent Péter tér, Róma – Bernini oszlopsora** (1656–67) → A barokk monumentalitás és reprezentáció, a hívők „átölelése" szimbolikusan.
+
+### **Középső sor**
+
+- **Vaux-le-Vicomte kastély, Franciaország** (1661), Louis Le Vau, André Le Nôtre → A francia barokk kert- és kastélyépítészet mintaképe.
+- **Vaux-le-Vicomte alaprajza** → Szimmetrikus, középpontos szerkezet, reprezentációs terek kiemelésével.
+- **Versailles-i kastély, Franciaország** (1661–1715), Louis Le Vau, Jules Hardouin-Mansart, Le Nôtre → A barokk pompájának legnagyobb szabású példája.
+
+### **Alsó sor**
+
+- **Guarini – San Lorenzo kupolája, Torino** (1668–1687) → Látványos, áttört geometrikus kupola, a barokk építészet mérnöki bravúrja.
+- **Grassalkovich-kastély, Gödöllő** (18. század közepe) → Magyar barokk főúri kastély, Versailles mintájára.
+- **Versailles – Tükörterem** (Galerie des Glaces, 1678–1684) → A reprezentáció és a barokk fényhatások csúcspontja.

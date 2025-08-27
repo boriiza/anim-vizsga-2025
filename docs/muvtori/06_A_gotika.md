@@ -120,3 +120,28 @@
 ---
 
 ![Gótika művészete](../images/6_A%20gótika%20művészete_KÉP.png)
+
+### **Felső sor (építészet és szerkezetek)**
+
+- **Gótikus templombelső metszete** – keresztboltozat és támpillérek bemutatása.
+- **Gótikus templom keresztmetszet** – repülő támpillér (flying buttress) szerkezeti rajza.
+- **Gótikus kőrács (tracery) tervrajza** – mérművek jellegzetes formái.
+- **Gótikus rózsaablak** – kör alakú díszes üvegablak (pl. Chartres vagy Párizs, Notre-Dame).
+- **Sainte-Chapelle, Párizs** (1241–48) – a francia gótika „üvegcsarnoka", hatalmas ablakfelületekkel.
+- **Saint-Denis apátsági templom, Párizs** (12. sz.) – a gótikus építészet kiindulópontja, fényárban úszó szentély.
+
+### **Középső sor (homlokzatok, szobrászat, alaprajzok)**
+
+- **Notre-Dame, Párizs** (1163–1345) – a francia katedrális-gótika egyik legfontosabb emléke.
+- **Chartres katedrális portálja** – gazdagon díszített timpanon.
+- **Reims katedrális szobrai** – királygaléria és oszlopszobrok, jellegzetes gótikus plasztika.
+- **Gótikus katedrális alaprajza** – latin kereszt alaprajz, kereszthajóval és kórussal.
+- **King's College Chapel, Cambridge** (1446–1515) – angol gótika, hálóboltozattal.
+
+### **Alsó sor (képzőművészet és iparművészet)**
+
+- **Szent György-szobor, Prága** (1373) – gótikus lovasszobor, bronz.
+- **Jan van Eyck – Genti oltár** (1432) – németalföldi gótika és korai reneszánsz határán álló poliptichon.
+- **Chartres katedrális üvegablaka** – bibliai jelenet színes üvegben.
+- **Madonna-szobor** (gótikus Mária-ábrázolás) – kő- vagy fa plasztika, a nőies kecsesség hangsúlyozásával.
+- **Gótikus szárnyasoltár** – gazdagon faragott és aranyozott oltár, főként német területekről.

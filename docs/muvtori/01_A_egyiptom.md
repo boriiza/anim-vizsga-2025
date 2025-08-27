@@ -68,3 +68,24 @@
 ---
 
 ![Az ókori Mezopotámia és Egyiptom](../images/1_Az%20ókori%20Mezopotámia%20és%20Egyiptom_KÉP.png)
+
+### **Felső sor**
+
+- **Dzsószer piramisa** (Kr. e. 27. sz.) – a lépcsős piramis Szakkarában, Imhotep építész műve.
+- **Tutanhamon halotti maszkja** (Kr. e. 14. sz.) – aranyból és féldrágakövekből készült, Egyiptom legismertebb sírmelléklete.
+- **Menkauré fáraó és felesége** (Kr. e. 25. sz. körül) – Egyiptomi szobrászat, frontális beállítás.
+- **Írnok szobra** (Kr. e. 25. sz.) – ülő írnok realista ábrázolása, Egyiptom.
+
+### **Középső sor**
+
+- **Gízai piramisok** (Kr. e. 26. sz.) – Kheopsz, Khephrén, Mükerinosz piramisai.
+- **Freskó az egyiptomi sírművészetből** – Nílus menti táj, gazdag szimbolikával.
+- **Lamasszu** (szárnyas bika, emberfejjel) – asszír védőszobor, Mezopotámia.
+- **Ur zikkuratja** (Kr. e. 21. sz.) – hatalmas lépcsős templomtorony Mezopotámiában.
+
+### **Alsó sor**
+
+- **Abu Szimbel temploma** (Kr. e. 13. sz.) – II. Ramszesz monumentális sziklatemploma.
+- **Egyiptomi falfestmény** (Kr. e. 14–13. sz.) – sírfal, a túlvilági élet ábrázolása.
+- **Istár-kapu, Babilon** (Kr. e. 6. sz.) – Nebukadnezár király idejéből, kék mázas téglával díszítve.
+- **Mezopotámiai dombormű** (oroszlán-ábrázolás, Babilon) – részlet az Istár-kapu díszítéséből

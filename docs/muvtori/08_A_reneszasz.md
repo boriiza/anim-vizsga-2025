@@ -133,4 +133,26 @@
 
 ---
 
-![Itáliai reneszánsz művészet - cinquecento](../images/8_Itáliai%20reneszánsz%20művészet_cinquecento_KÉP.png)
+![Itáliai reneszánsz művészet - trecento és quattrocento](../images/7_Itáliai%20reneszánsz%20művészet_trecento_quattrocento_KÉP.png)
+
+### **Felső sor**
+
+- **Giotto – Szent Ferenc prédikál a madaraknak** (kb. 1297–99) – Assisi, San Francesco-bazilika freskó.
+- **Giotto – Keresztrefeszítés** (Arena-kápolna, Padova, 1305 körül).
+- **Leonardo da Vinci – Az utolsó vacsora** (1495–1498), Santa Maria delle Grazie, Milánó.
+- **Lorenzo Ghiberti – Paradicsomi kapuk** (1425–52), Firenzei Battistero – bronzkapu.
+
+### **Középső sor**
+
+- **Simone Martini – Angyali üdvözlet** (1333), gótikus stílusú oltárkép, Sienai iskola.
+- **Andrea Mantegna – Halott Krisztus** (1480 körül) – erőteljes perspektivikus rövidülés.
+- **Sandro Botticelli – Vénusz születése** (1484–1486) – Firenze, Uffizi.
+- **Ghiberti – Paradicsomi kapuk egyik részlete: Izsák feláldozása** (bronzdombormű).
+
+### **Alsó sor**
+
+- **Santa Maria Novella homlokzata, Firenze** (1456–70) – Leon Battista Alberti.
+- **Ospedale degli Innocenti (Árvaház), Firenze** (1419) – Filippo Brunelleschi, a reneszánsz építészet kezdete.
+- **Donatello – Gattamelata lovasszobra** (1447–1453), Padova. Az első reneszánsz bronz lovasszobor.
+- **Pisanello – Éremportrék** (15. sz. közepe) – a reneszánsz portréművészet egyik új médiuma.
+

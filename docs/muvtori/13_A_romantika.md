@@ -157,4 +157,25 @@
 
 ---
 
-![Impresszionizmus](../images/13_Impresszionuzmus_KÉP.png)
+![Klasszicizmus](../images/11_Klasszicizmus%20és%20romantika_KÉP.png)
+
+### **Felső sor (építészet – klasszicizmus)**
+
+- **Altes Museum, Berlin** – tervezte Karl Friedrich Schinkel (1830). A klasszicista múzeumépítészet egyik mintapéldája.
+- **La Madeleine, Párizs** – (1764–1842). Klasszicista templom, római bazilikát idéző oszlopsorral.
+- **La Madeleine belső tere, Párizs** – római monumentalitást idéző enteriőr.
+- **Nemzeti Színház, Miskolc** (korai klasszicizmus).
+- **Pesti Vigadó, Budapest** – tervezte Feszl Frigyes (romantikus historizmus, 1859–64).
+
+### **Középső sor (szobrászat – klasszicizmus)**
+
+- **Antonio Canova – Stuart síremlék** (San Pietro, Róma).
+- **Antonio Canova – Psyché ébredése Cupido csókjára** (Psyche Revived by Cupid's Kiss, 1787–93) – a klasszicista szobrászat egyik remekműve.
+- **Antonio Canova – Ganimédész és a sas** – mitológiai téma klasszicista feldolgozása.
+
+### **Alsó sor (festészet – klasszicizmus és romantika)**
+
+- **Jacques-Louis David – A Horatiusok esküje** (1784) – a klasszicizmus festészetének legismertebb műve.
+- **Eugène Delacroix – A Szabadság vezeti a népet** (1830) – a romantika festészetének ikonikus alkotása.
+- **Francisco Goya – A kolosszus** (El Coloso, 1810 körül) – a romantika drámai, félelmetes víziója.
+- **Caspar David Friedrich – Kréta sziklák Rügenben** (1818) – a romantika természetábrázolásának egyik legismertebb példája, filozófiai tartalommal.

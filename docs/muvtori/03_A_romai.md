@@ -173,3 +173,24 @@
 ---
 
 ![Ókori Róma művészete](../images/3_Az%20ókori%20Róma%20művészete_KÉP.png)
+
+### **Felső sor**
+
+- **Dongaboltozat szerkezeti rajza** – a római építészet egyik alapvető újítása.
+- **Colosseum metszete** (Kr. u. 72–80) – a római amfiteátrum építészeti rajza.
+- **Pantheon alaprajza és metszete** (Kr. u. 118–128) – Hadrianus korából, a legnagyobb római kupolás épület.
+- **Marcus Aurelius lovasszobra** (Kr. u. 2. sz.) – bronz lovasszobor, amely császári hatalmat szimbolizál.
+
+### **Középső sor**
+
+- **Bazilika alaprajz** – római középület (bírósági és kereskedelmi funkciókkal).
+- **Colosseum (Amphitheatrum Flavium)** – a római szórakoztató építészet legismertebb emléke.
+- **Pantheon homlokzata** – a római templomépítészet egyik csúcspontja, korinthoszi oszloprenddel.
+- **Traianus-oszlop** (Kr. u. 113) – domborművekben elmesélt hadjárati krónika.
+
+### **Alsó sor**
+
+- **Forum Romanum romjai** – Róma politikai és vallási központja.
+- **Konstantinus diadalíve** (Kr. u. 315) – a római diadalívek legismertebb fennmaradt példája.
+- **Via Appia térképe** – a római úthálózat szimbóluma.
+- **Pont du Gard, Nîmes** (Kr. e. 1. sz.) – római vízvezeték (akvadukt) Dél-Franciaországban.

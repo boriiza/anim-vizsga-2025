@@ -145,3 +145,22 @@
 ---
 
 ![Román kor művészete](../images/5_A%20román%20kor%20művészete_KÉP.png)
+
+### **Felső sor (építészet és szerkezetek)**
+
+- **Szerkezeti rajz** – dongaboltozat keresztmetszete – a román kori építészet jellegzetes fedési módja.
+- **Román templom metszete** – vastag falak, félköríves árkádok, dongaboltozat.
+- **Pécsi székesegyház, Magyarország** – román kori eredetű, később többször átépítve.
+- **Firenzei keresztelőkápolna** (Battistero di San Giovanni, 11–12. sz.) – román kori toszkán építészet.
+
+### **Középső sor (alaprajzok és kapuk)**
+
+- **Román kori templom alaprajza** – latin kereszt alaprajz, kereszthajóval és szentéllyel.
+- **Jáki templom, Magyarország** (XIII. sz.) – a román építészet egyik legfontosabb magyar emléke.
+- **Porta Speciosa, jáki templom** – gazdagon díszített román kori kapuzat.
+
+### **Alsó sor (szobrászat és domborművek)**
+
+- **Christus Majestas** (Maiestas Domini) – román kori dombormű Krisztus trónuson, mandorlában, körülötte evangélista-szimbólumok.
+- **Tympanon, Autun, Franciaország** (XII. sz.) – Gislebertus: Utolsó ítélet.
+- **Román kori szarkofág** (pl. Pécs vagy Aquileia) – ornamentális díszítésekkel.

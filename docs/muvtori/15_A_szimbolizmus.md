@@ -172,4 +172,21 @@
 
 ---
 
-![Magyar festészet 19. század](../images/15_Magyar%20festészet%2019.%20század_KÉP.png)
+![Szimbolizmus](../images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)
+
+### **Felső sor (balról jobbra)**
+
+- **Bécsi Szecesszió Háza** (Wiener Secession, 1897) – tervezte Joseph Maria Olbrich. Jelszava: „Der Zeit ihre Kunst, der Kunst ihre Freiheit" („Minden kornak a maga művészetét, minden művészetnek a maga szabadságát").
+- **Majolika-ház, Bécs** (1898–99) – tervezte Otto Wagner, a bécsi szecesszió vezető építésze.
+- **Casa Batlló, Barcelona** (1904–06) – tervezte Antoni Gaudí, a katalán modernizmus (szecesszió) ikonikus épülete.
+
+### **Középső sor (balról jobbra)**
+
+- **Gustav Klimt – A csók** (Der Kuss, 1907–08) – a bécsi szecesszió legismertebb festménye.
+- **Csontváry Kosztka Tivadar – Magányos cédrus** (1907) – a magyar szimbolizmus és expresszív festészet kiemelkedő műve.
+
+### **Alsó sor (balról jobbra)**
+
+- **Iparművészeti Múzeum, Budapest** (1896) – tervezte Lechner Ödön, a magyar szecesszió vezető építésze.
+- **Csontváry Kosztka Tivadar – Zarándoklás a cédrushoz Libanonban** (1907) – monumentális szimbolista alkotás.
+- **Kék templom, Pozsony** (1911–13) – szintén Lechner Ödön, a magyar szecesszió egyik legismertebb épülete Szlovákiában.

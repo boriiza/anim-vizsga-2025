@@ -217,4 +217,24 @@
 
 ---
 
-![Dada és Szürrealizmus](../images/18_Dada_Szürrealizmus_KÉP.png)
+![Bauhaus](../images/19_Bauhaus_KÉP.png)
+
+### **Felső sor (balról jobbra)**
+
+- **Bauhaus iskola épülete, Dessau** – tervezte Walter Gropius (1925–26). A Bauhaus központi épülete.
+- **Triadisches Ballett (Triadikus balett) jelmez** – Oskar Schlemmer (1922). A Bauhaus színházi kísérleteinek ikonikus darabja.
+- **Triadisches Ballett színpadi jelenet** – szintén Oskar Schlemmer (1920-as évek).
+- **Fotogram / fénykép-kísérlet** – László Moholy-Nagy munkája, aki fotogramjaival a fény és forma kapcsolatát kutatta.
+
+### **Középső sor (balról jobbra)**
+
+- **Marcel Breuer portréja** (a híres magyar Bauhaus-tervező).
+- **Bauhaus lakóházak, Dessau** (Siedlung Törten) – tervezte Walter Gropius (1926–28).
+- **Georg Muche – Haus am Horn, Weimar** (1923), az első Bauhaus-épületkísérlet.
+- **Villa Tugendhat, Brno (Csehország)** – Ludwig Mies van der Rohe (1930), a modern építészet egyik remekműve.
+
+### **Alsó sor (balról jobbra)**
+
+- **Barcelona Pavilion** (1929) – szintén Ludwig Mies van der Rohe, a modern építészet tiszta formájával.
+- **Villa Savoye, Poissy (Franciaország)** – Le Corbusier (1928–31). Bár nem Bauhaus, hanem az International Style része, de szorosan összefügg.
+- **Fallingwater (Vízesésház), Pennsylvania** – Frank Lloyd Wright (1935). Ez már organikus építészet, de gyakran a modernizmus fejlődéstörténetébe kapcsolják.

@@ -67,3 +67,25 @@
 ---
 
 ![Ókori görög művészet](../images/2_Az%20ókori%20görög%20művészet_KÉP.png)
+
+### **Felső sor**
+
+- **Oszloprendek** (dór, ión, korinthoszi) – az ókori görög építészet három klasszikus stílusa.
+- **Kúrosz szobor** (archaikus kor, Kr. e. 6. sz.) – meztelen ifjú szobra, archaikus mosollyal.
+- **Polükleitosz – Doryphoros** (Lándzsavivő, Kr. e. 5. sz.) – klasszikus szobrászat, kontraposzt.
+- **Mürón – Diszkoszvető** (Kr. e. 450 körül) – a mozdulat dinamikáját bemutató szobor.
+- **Milói Vénusz** (Aphrodité, Kr. e. 2. sz.) – hellenisztikus szobrászat egyik legismertebb alkotása.
+
+### **Középső sor**
+
+- **Athéni Akropolisz** – az ókori görög vallási építészet központja.
+- **Parthenón** (Kr. e. 447–432) – Athéné temploma, dór oszloprenddel, Iktinosz és Kallikratész műve.
+- **Erekhtheion** (Kr. e. 421–406) – kariatidák csarnokával.
+- **Szamothrakéi Niké** (Kr. e. 190 körül) – hellenisztikus szobrászat, a győzelem istennője szárnyakkal.
+
+### **Alsó sor**
+
+- **Laokoón-csoport** (Kr. e. 1. sz.) – hellenisztikus szobrászat, erőteljes drámai hatással.
+- **Parthenón fríz** (Panathénaia-ünnep, Kr. e. 5. sz.) – dombormű részlet.
+- **Vörösalakos váza** (Kr. e. 5. sz.) – görög mitológiai jelenettel.
+- **Feketealakos váza** (Kr. e. 6. sz.) – harcosok ábrázolásával.

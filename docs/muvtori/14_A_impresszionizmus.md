@@ -155,4 +155,36 @@
 
 ---
 
+![Impresszionizmus](../images/13_Impresszionuzmus_KÉP.png)
+
+### **Felső sor**
+
+- **Claude Monet – Impresszió, a felkelő nap** (Impression, soleil levant, 1872) → Ez a festmény adta a nevet az impresszionizmusnak.
+- **Claude Monet – Saint-Lazare pályaudvar** (1877) → A modern városi élet és az ipari forradalom ábrázolása a fény és füst hatásaival.
+- **Claude Monet – Roueni katedrális sorozat** (1892–94) → Monet több tucat képet festett a katedrálisról, különböző napszakok és fényhatások bemutatására.
+
+### **Középső sor**
+
+- **Paul Cézanne – Fürdőzők** (Les Grandes Baigneuses, 1898–1905) → Bár Cézanne nem volt klasszikus impresszionista, ő kötötte össze az impresszionizmust a posztimpresszionizmussal.
+- **Pierre-Auguste Renoir – Séta** (La Promenade, 1870) → Könnyed társas jelenet, lágy színekkel és fényekkel.
+
+### **Alsó sor**
+
+- **Pierre-Auguste Renoir – A Moulin de la Galette mulató** (1876) → Az impresszionizmus egyik legismertebb festménye, a párizsi Montmartre életképével.
+- **Edgar Degas – Balettóra** (1874 körül) → Degas a mozgás, különösen a balett világának mesteri ábrázolója volt.
+
 ![Posztimpresszionizmus](../images/14_Posztimpresszionuzmus_KÉP.png)
+
+### **Felső sor**
+
+- **Vincent van Gogh – Csillagos éj** (Starry Night, 1889) → Az egyik legismertebb posztimpresszionista festmény, a dinamizmus és érzelmi kifejezés mintapéldája.
+- **Vincent van Gogh – Éjjeli kávéház terasza** (Café Terrace at Night, 1888) → Élénk színek és jellegzetes ecsetvonások.
+- **Vincent van Gogh – Hálószoba Arles-ban** (Bedroom in Arles, 1888) → A személyes tér egyszerű, de erőteljes színvilágú ábrázolása.
+
+### **Alsó sor**
+
+- **Vincent van Gogh – Napraforgók** (Sunflowers, 1888) → A híres virágcsendélet-sorozat egyik darabja.
+- **Vincent van Gogh – Auvers-i templom** (Church at Auvers, 1890) → A vibráló színek és mozgás kifejező ereje jellemzi.
+- **Georges Seurat – Vasárnap délután a Grande Jatte szigetén** (A Sunday Afternoon on the Island of La Grande Jatte, 1884–86) → A pointillizmus (neoimpresszionizmus) alapműve, apró színpöttyökből építve.
+
+

@@ -190,3 +190,26 @@
 ---
 
 ![Ókeresztény és bizánci művészet](../images/4_Az%20ókeresztény%20és%20bizánci%20művészet_KÉP.png)
+
+### **Felső sor**
+
+- **Katakomba-folyosó, Róma** (2–4. sz.) – az ókeresztények föld alatti temetkezőhelye.
+- **Katakomba-freskó** (Róma, 3–4. sz.) – bibliai témák szimbolikus ábrázolása (pl. Jó Pásztor, Oráns alakok).
+- **Ókeresztény szimbólumok freskón** – hajó, hal, kereszt – a kereszténység titkos jelei.
+- **Ókeresztény sírfestmény** – Jó Pásztor – Krisztus allegóriája.
+- **Galla Placidia mauzóleuma, Ravenna** (5. sz.) – mozaikkal díszített keresztboltozatos belső tér.
+
+### **Középső sor**
+
+- **Ókeresztény bazilika alaprajza** – hosszházas elrendezés, a római bazilikák mintájára.
+- **Szent Apollinare Nuovo mozaik, Ravenna** (6. sz.) – processziós szentek ábrázolása.
+- **Bizánci templom alaprajza** (pl. Szent Vitale, Ravenna, 6. sz.) – centrális, kupolás elrendezés.
+- **Szent Apollinare in Classe mozaik, Ravenna** (6. sz.) – Krisztus mint Jó Pásztor, díszes abszismozaik.
+
+### **Alsó sor**
+
+- **Hagia Sophia, Konstantinápoly** (537) – Justinianus császár idején épült, a bizánci építészet csúcsa.
+- **Hagia Sophia belső tere** – a kupola és a fény hatásának hangsúlyozása.
+- **Andrej Rubljov – Szentháromság ikon** (15. sz.) – az orosz ikonfestészet remekműve.
+- **Bizánci mozaik: Pantokrátor Krisztus** – ikonikus bizánci ábrázolás.
+- **Magyar Szent Korona** (11. sz.) – bizánci zománc díszítésekkel.
