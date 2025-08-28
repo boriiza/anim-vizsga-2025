@@ -26,44 +26,51 @@ Mutassa be  az  ókori  Egyiptom  társadalmi  felépítését,  hiedelemvilág�
   - **Halotti könyv** varázsszövegei
 
 ## 3. Az ókori egyiptomi művészet korszakai (i.e. 3000 – i.e. 30)
+**Korszakai:**
 - **Óbirodalom** – piramisépítés kora (Szakkara, Gíza)
 - **Középbirodalom** – templomépítés, monumentális szobrok
 - **Újbirodalom** – nagyszabású templomok, sziklasírok (Luxor, Karnak, Királyok völgye)
 - **Kései kor** – külső hatások (perzsa, görög, római) érvényesülése
 
+**Földrajzi, társadalmi környezet:**
+- Öntözéses földművelés a Nílus mentén
+- Csillagászat, matematika, geometria
+- Hieroglif írás
+- Tízes számrendszer
+
 ## 4. Építészet
 - **Sírépítészet**
-  - Masztaba → Lépcsős piramis (Dzsószer – Szakkara) → Gízai piramisok (Kheopsz, Khephrén, Mükerinosz)
+  - **Masztabák** → **Lépcsős piramis** (**Dzsószer fáraó lépcsős piramisa – Szakkara**) → **Gízai piramisok** (**Kheopsz, Khephrén és Mükerinosz**)
   - **Sziklasírok** – Királyok völgye
 - **Templomépítészet**
   - Karnak és luxori templomok
-  - Szfinx és obeliszkek
+  - **Obeliszkek**, szfinx
   - **Jellemzők**: monumentális méretek, kőoszlopok, hieroglif díszítés
 
 ## 5. Szobrászat
 - **Cél**: az örökkévalóságnak, halottkultusz részeként
 - **Stílus**
-  - Idealizált, szimmetrikus, frontalitás
-  - „Legnagyobb felületek törvénye"
+  - **Idealizáltak, szimmetrikus felépítésűek**
+  - **„Legnagyobb felületek törvénye" és frontalitás jellemzi**
 - **Híres művek**
-  - Khephrén fáraó szobra
-  - Mükerinosz hitvesével
-  - Ülő írnok szobra
-  - Hatsepszut és Nofertiti portréi
+  - **Khephrén fáraó** szobra
+  - **Mükerinosz hitvesével**
+  - **Ülő írnok szobra**
+  - **Hatsepszut, Nofertiti** portréi
 
 ## 6. Festészet
 - **Jellemzők**
-  - Felületi törvény – a legjellemzőbb oldal nézetben
-  - Hierarchikus arányok (rang → méret)
+  - **A legjellemzőbb felületek törvénye szerint** – a legjellemzőbb oldal nézetben
+  - **Az alakok mérete a rangjelkép** (hierarchikus arányok)
   - Élénk színek, síkfelület, kontúros ábrázolás
 - **Témák**: vallás, halotti jelenetek, mindennapi élet
-- **Példák**: *Halastó*, *Hárfázó nők*, *Sirátoasszonyok*
+- **Példák**: **Halastó**, **Hárfázó nők**, **Siratóasszonyok**
 
 ## 7. Tárgykultúra, kézművesség
-- Fejlett kézműipar: üvegművesség, ötvösség
+- **Fejlett kézművesség, üvegműves és ötvöstárgyak**
 - **Leletek**
-  - Arany sólyomfej
-  - Ékszerek, amulettek
+  - **Arany sólyomfej**
+  - **Ékszerek**, amulettek
 - **Tudományok**: matematika, csillagászat, geometria → építészet alapja
 
 ## 8. Hatás a későbbi korokra
