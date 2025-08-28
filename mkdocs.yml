@@ -60,17 +60,17 @@ nav:
     - 5B - Forgatókönyvírás: szaktori/05_B_forgatokonyviras.md
     - 6B - Filmtámogatási pályázat: szaktori/06_B_filmtamogatasi_palyazat.md
     - 7B - Rajzanimáció technika: szaktori/07_B_rajzanimacio_technika.md
-    - 8B - Dokumentumfilm forgatás alföldi tanyavilágban: szaktori/08_B_babanimacio_technika.md
-    - 9B - 3D printelés animációs alkalmazásai: szaktori/09_B_3d_printeles_animacio.md
-    - 10B - Kis költségvetésű rövid játékfilm műtermi felvétele: szaktori/10_B_augmented_reality.md
-    - 11B - Road movie hangfelvétel: szaktori/11_B_panoramavideo.md
-    - 12B - Számítógép hardver konfiguráció mozgóképi munkához: szaktori/12_B_videomapping.md
+    - 8B - Dokumentumfilm forgatás alföldi tanyavilágban: szaktori/08_B_forgatas.md
+    - 9B - Bábanimációs technika: szaktori/09_B_babanimacio_technika.md
+    - 10B - Kis költségvetésű rövid játékfilm műtermi felvétele: szaktori/10_B_vilagitas.md
+    - 11B - Road movie hangfelvétel: szaktori/11_B_hangok.md
+    - 12B - Számítógép hardver konfiguráció mozgóképi munkához: szaktori/12_B_szamitogep.md
     - 13B - 3D karaktermodellezés számítógépes játékhoz: szaktori/13_B_3d_animacio_technika.md
-    - 14B - 3D printelés animációs alkalmazásai: szaktori/14_B_road_movie_hangfelvetel.md
-    - 15B - Augmented Reality történelmi épületekhez: szaktori/15_B_szamitogep_hardver_konfiguracio.md
-    - 16B - Zenei fesztivál panorámavideó: szaktori/16_B_3d_karaktermodellezés.md
-    - 17B - Videomapping fesztivál nyitóeseményre: szaktori/17_B_augmented_reality.md
-    - 18B - Virtuális karakter és zöld háttér technika: szaktori/18_B_virtuális_karakter_zsoldhátter.md
+    - 14B - 3D printelés animációs alkalmazásai: szaktori/14_B_bab.md
+    - 15B - Augmented Reality történelmi épületekhez: szaktori/15_B_AR.md
+    - 16B - Zenei fesztivál panorámavideó: szaktori/16_B_panorama.md
+    - 17B - Videomapping fesztivál nyitóeseményre: szaktori/17_B_videomapping.md
+    - 18B - Virtuális karakter és zöld háttér technika: szaktori/18_B_zoldhatter.md
     - 19B - Díszletkiegészítés (Set Extension) történelmi tévéfilmsorozathoz: szaktori/19_B_diszletkiegeszites.md
     - 20B - 3D fizikai szimulációk vs makettfelvételes technika: szaktori/20_B_vfx_3d_szimulacio.md
 
