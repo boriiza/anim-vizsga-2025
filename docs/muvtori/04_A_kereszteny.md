@@ -6,193 +6,356 @@ Mutassa be az ókeresztény és a bizánci művészetet - az építészet és a 
 - Az ókeresztény szobrászat stílusjegyei és jelképei
 - A bizánci mozaik, az ikonfestészet és a kézművesség jellemzői
 
-
 ## 1. Történelmi háttér és társadalmi körülmények
-- **Időszak**: i.sz. I-XV. század (1-1453)
-- **Térség**: Római Birodalom, Bizánci Birodalom, Közel-Kelet
-- **Társadalmi változások**: kereszténység elterjedése, Római Birodalom felosztása
-- **Vallási tényezők**: a kereszténység államvallássá válása, egyházépítészet fejlődése
-- **Bizánci Birodalom** → keleti görög hagyományok és kereszténység ötvözése
 
-### 1.1 Kulcsszavak és fogalmak
-- **Constantinus római császár** → keresztény vallásgyakorlás engedélyezése
-- **Egyistenhit (monoteizmus)** → messiás, próféták, apostolok, misszió, evangélium
-- **Szentháromság** → üdvösség-kárhozat, Biblia (Ószövetség, Újszövetség)
-- **Katakombák** → imaházak, temetőkápolnák, keresztelőkápolnák, mauzóleumok
-- **Szarkofágok** → harangtornyok, kolostorépítészet
+### 1.1 A Római Birodalom kettészakadása
+- **Constantinus római császár**: a keresztény vallásgyakorlás engedélyezése
+- **Egyistenhit (monoteizmus)**: messiás, próféták, apostolok, misszió, evangélium, szentháromság, üdvösség-kárhozat
+- **Biblia**: Ószövetség - Újszövetség - történeti, tanítói és profetikus könyvek
 
-### 1.2 A Római Birodalom kettészakadása
+### 1.2 Katakombák és temetőkápolnák
+- **Rómát behálózó katakombák**: imaházak, temetőkápolnák, keresztelőkápolnák, mauzóleumok, szarkofágok, harangtornyok
+
+### 1.3 Nyugat és Kelet különválása
 - **Nyugaton**: ókeresztény művészet (IV-X. század) - a római katolikus egyház kiépülése
-- **Kelet-római birodalom**: Bizánci császárság (V-XIII. század) - Balkán félsziget, Kis-Ázsia, Szíria, Palesztina, Egyiptom
-- **Görög-keleti ortodox egyház** → pápa-császárság (cezaropapizmus)
+- **Gótok, longobárdok**: Ravenna, Róma, Frank Birodalom: Aachen
+- **Normannok, avarok, szlávok, magyarok**: kolostorépítészet
 
-## 2. Az ókeresztény építészet jellemzői
+### 1.4 Kelet-római birodalom - Bizánci császárság
+- **Időszak**: i.sz. V-XIII. század
+- **Terület**: Balkán félsziget, Kis-Ázsia, Szíria, Palesztina, Egyiptom
+- **Görög-keleti ortodox egyház**: pápa-császárság (cezaropapizmus)
 
-### 2.1 Építészeti stílusjegyek
-- **Bazilika típus** → ókori római hagyományok folytatása
-- **Háromhajós elrendezés** → főhajó és mellékhajók
-- **Transept** → kereszt alakú alaprajz
-- **Apszis** → félkör alakú szentély
-- **Kripta** → föld alatti sírkamra
-- **Portál** → egyszerű bejárat
+## 2. Az ókeresztény bazilika építészeti jellemzői
 
-### 2.2 Templomépítészet
-- **Bazilika típus** → ókori római hagyományok folytatása
-- **Háromhajós elrendezés** → főhajó és mellékhajók
-- **Transept** → kereszt alakú alaprajz
-- **Apszis** → félkör alakú szentély
-- **Kripta** → föld alatti sírkamra
-- **Portál** → egyszerű bejárat
+### 2.1 Alapvető felépítés
+- **Torony nélküli épület**: átrium, hosszház, szentély
+- **Három és öthajós épülettér**: fedélszék, kazettás síkmennyezet
+- **Árkádsor**: apszis, oltár, lizéna
+- **Keresztelőkápolna**: baptisztérium, mauzóleum
 
-### 2.3 Bizánci építészet
-- **Kereszt alakú alaprajz** → görög kereszt
-- **Kupola** → központi kupola a templom tetején
-- **Mozsaikok** → falak és boltozatok díszítése
-- **Ikonosztáz** → szentképek elválasztó fal
-- **Narthex** → előcsarnok
+### 2.2 Díszítőelemek
+- **Fafaragványok**: elefántcsont faragványok
+- **Áttört díszítésű kő faragványok**: geometrikus és növényi motívumok
 
-### 2.4 Ókeresztény bazilika részletei
-- **Torony nélküli épület** → átrium, hosszház, szentély
-- **Három és öthajós épülettér** → fedélszék, kazettás síkmennyezet
-- **Árkádsor** → apszis, oltár, lizéna
-- **Keresztelőkápolna** → baptisztérium, mauzóleum
+## 3. Katakomba festészet
 
-## 3. Híres ókeresztény és bizánci építmények
+### 3.1 Római katakombák
+- **Domitilla katakomba**: Hal kenyeres kosárral
+- **Callixtus katakomba**: Szt. Cecília kriptája
+- **Régi Szt. Péter bazilika**: ókeresztény építészeti példa
+- **Santa Sabina bazilika**: ókeresztény stílusú templom
 
-### 3.1 Ókeresztény építmények
-- **Ó Szent Péter bazilika** (Róma) → első nagy keresztény templom
-- **Lateráni bazilika** (Róma) → pápai templom
-- **Santa Maria Maggiore** (Róma) → Mária tiszteletére épült
-- **San Paolo fuori le Mura** (Róma) → Pál apostol temploma
-- **Santa Sabina bazilika** (Róma) → ókeresztény példa
+## 4. Mozaikművészet
 
-### 3.2 Bizánci építmények
-- **Hagia Sophia** (Konstantinápoly) → legnagyobb bizánci templom
-- **San Vitale** (Ravenna) → mozaikokkal díszített
-- **Szent Márk templom** (Velence) → bizánci hatású
-- **Daphni kolostor** (Athén) → mozaikok
+### 4.1 Ravenna mozaikjai
+- **San Apollinare in Classe bazilika**: szentély mozaikjai
+- **San Vitale templom**: Justinianus császár és kísérete
+- **San Apollinare Nuovo**: processziós mozaikok
+- **San Apollinare in Classe**: Krisztus mint Jó Pásztor
 
-### 3.3 Ravenna
-- **Sant'Apollinare Nuovo** → ariánus templom
-- **Sant'Apollinare in Classe** → mozaikok
-- **Baptisztérium** → ortodox keresztelőkápolna
-- **Mausoleum of Galla Placidia** → sírkamra
+### 4.2 Velence és Róma
+- **Velence**: San Marco templom - bizánci hatású mozaikok
+- **Róma**: St. Clemente (Kelemen) bazilika apszis mozaikja
 
-### 3.4 Konstantinápoly
-- **Hagia Irene** → első bizánci templom
-- **Chora templom** → mozaikok
-- **Pammakaristos templom** → palaiologos stílus
+### 4.3 Mauzóleumok és díszítések
+- **Santa Constanza mauzóleum**: Galla Placidia sírkamrája
+- **Milánó**: San Ambrogio kapu díszítése, Jónás története
 
-### 3.5 Katakombák és temetőkápolnák
-- **Domitilla katakomba** (Róma) → Hal kenyeres kosárral
-- **Callixtus katakomba** (Róma) → Szt. Cecília kriptája
-- **St. Clemente bazilika** (Róma) → apszis mozaikja
+## 5. Szarkofágok és szobrászati elemek
 
-## 4. Az ókeresztény és bizánci szobrászat
+### 5.1 Római szarkofágok
+- **Theodorus püspök szarkofágja**: ókeresztény sírkő
+- **Ravenna**: Agnellus püspök szószéke
 
-### 4.1 Ókeresztény szobrászat
-- **Sarkofágok** → sírkövek díszítése
-- **Oltárkép** → szentképek
-- **Kereszt** → Krisztus ábrázolása
-- **Témák**: Krisztus élete, apostolok, szentek
+### 5.2 Domborművek és díszítések
+- **Domborművek**: oszlopfők, szószékek
+- **Fa, elefántcsont faragások**: ereklyetartók, miniatúrafestészet
 
-### 4.2 Bizánci szobrászat
-- **Reliefek** → falak díszítése
-- **Ikonok** → szentképek
-- **Kereszt** → díszített kereszt
-- **Oltárkép** → ikonosztáz
+## 6. Bizánci templomépítészet
 
-### 4.3 Stílusjegyek
-- **Hierarchikus arányok** → rang szerinti méretezés
-- **Szimbolikus ábrázolás** → vallási tartalom
-- **Geometrikus formák** → egyszerűség, tisztaság
-- **Frontális beállítás** → merev, szimmetrikus
+### 6.1 Alapvető jellemzők
+- **Görög kereszt alaprajzú**: centrális elrendezés
+- **Cikkelyes-, csegelyes-, tamburos kupola**: különböző kupolatípusok
+- **Kilencosztatú tér**: szent tér felosztása
+- **Ikonosztáz**: szentképek elválasztó fal
 
-### 4.4 Híres szobrászati művek
-- **Theodorus püspök szarkofágja** (Róma) → ókeresztény példa
-- **Agnellus püspök szószéke** (Ravenna) → domborművek
-- **Oszlopfők** → fa, elefántcsont faragások
-- **Szószékek** → ereklyetartók, miniatúrafestészet
+### 6.2 Díszítőelemek
+- **Mozsaikdíszítés**: falak és boltozatok díszítése
+- **Izokefália**: fejek egyenletes elrendezése
+- **Arany háttér**: fényesség és ünnepélyesség
 
-## 5. Az ókeresztény és bizánci festészet
-
-### 5.1 Ókeresztény festészet
-- **Freskók** → falak díszítése
-- **Faliképek** → bibliai történetek
-- **Kripta festmények** → sírkamrák díszítése
-- **Kódexek** → kéziratok illusztrációi
-
-### 5.2 Bizánci festészet
-- **Mozsaikok** → falak és boltozatok díszítése
-- **Ikonok** → szentképek
-- **Freskók** → falak díszítése
-- **Miniatúrák** → kéziratok díszítése
-
-### 5.3 Stílusjegyek
-- **Síkfelületi ábrázolás** → perspektíva hiánya
-- **Élénk színek** → kék, piros, zöld, arany
-- **Kontúros rajz** → erős vonalak
-- **Hierarchikus kompozíció** → központi alakok
-
-### 5.4 Mozsaikművészet
-- **San Apollinare in Classe bazilika** → szentély mozaikjai
-- **San Vitale templom** → Justinianus császár és kísérete
-- **San Marco templom** (Velence) → bizánci hatású mozaikok
-- **St. Clemente bazilika** (Róma) → apszis mozaikja
-- **Santa Constanza mauzóleum** → Galla Placidia
-- **San Ambrogio kapu** (Milánó) → Jónás története
-
-## 6. Kézművesség és díszítőművészet
-
-### 6.1 Ókeresztény iparművészet
-- **Ékszerkészítés** → arany, ezüst, drágakövek
-- **Textilművészet** → brokátok, gobelin
-- **Üvegművészet** → ablaküvegek, edények
-- **Fafaragás** → padok, székek, ajtók
-
-### 6.2 Bizánci iparművészet
-- **Mozsaikok** → üveg, kő, arany
-- **Ikonok** → fafaragás, festés
-- **Ékszerkészítés** → arany, ezüst, drágakövek
-- **Textilművészet** → selyem, brokátok
-
-### 6.3 Híres művek
-- **San Apollinare in Classe bazilika** → Ravenna, mozaikok
-- **San Vitale templom** → Ravenna, Justinianus császár és kísérete
-- **San Marco templom** → Velence, bizánci hatású
-- **St. Clemente bazilika** → Róma, apszis mozaikja
-- **Santa Constanza mauzóleum** → Róma, Galla Placidia
-- **San Ambrogio kapu** → Milánó, Jónás története
-- **Theodorus püspök szarkofágja** → Róma
-- **Agnellus püspök szószéke** → Ravenna
+### 6.3 Ikonfestészet
+- **Jézus-Pantokrátor alakja**: uralkodó Krisztus ábrázolása
+- **Hagia Sophia**: Konstantinápoly legnagyobb temploma
 
 ## 7. Magyarországi ókeresztény emlékek
 
 ### 7.1 Pécs
-- **Pécsi bazilika** → ókeresztény maradványok
-- **Sírkamra festmények** → késő római hatás
-- **Kripta** → ókeresztény stílusú
+- **Pécsi bazilika**: ókeresztény maradványok
+- **Festett sírkamra**: késő római hatású freskók
 
 ### 7.2 Óbuda
-- **Cella trichora kápolna** → ókeresztény épület
-- **Keresztelőkápolna** → baptisztérium
+- **Cella trichora kápolna**: ókeresztény épület maradványai
 
-## 8. Az ókeresztény és bizánci művészet hatása és öröksége
+## 8. Az ókeresztény festészet részletes jellemzői
 
-### 8.1 Művészeti hatás
-- **Gótika előfutára** → bazilika típus
-- **Kupola építészet** → bizánci hatás
-- **Ikonfestészet** → keleti hagyományok
+### 8.1 Katakomba festészet stílusjegyei
+- **Freskó technika**: vizes festékek nedves vakolatba
+- **Szimbolikus ábrázolás**: hal, hajó, kereszt, kosár
+- **Bibliai témák**: Jó Pásztor, Oráns alakok, bibliai jelenetek
+- **Színhasználat**: élénk színek, kontrasztos megoldások
+- **Kompozíció**: egyszerű, síkfelületi ábrázolás
 
-### 8.2 Kulturális örökség
-- **Kereszténység** → egyházépítészet
-- **Vallási építészet** → templomok, kolostorok
-- **Bizánci kultúra** → keleti kapcsolatok
+### 8.2 Ókeresztény ikonográfia
+- **Krisztus szimbólumai**: hal (ichthys), kosár, pásztorbot
+- **Apostolok ábrázolása**: egyszerű ruházat, jellegzetes attribútumok
+- **Szentek**: nimbusz, ereklyetartók
+- **Bibliai jelenetek**: egyszerűsített, szimbolikus ábrázolás
 
-### 8.3 Modern hatás
-- **Neobizánci stílus** → XIX. századi újjáéledés
-- **Ortodox templomok** → keleti hagyományok
-- **Ikonfestészet** → vallási művészet
+### 8.3 Freskó technikák és anyagok
+- **Vakolat**: mész, homok, víz keveréke
+- **Festékek**: természetes pigmentek, tojás tempera
+- **Védelem**: viasz, olaj bevonat
+- **Megmaradás**: katakombák száraz klímája
+
+## 9. A bizánci festészet részletes elemzése
+
+### 9.1 Ikonfestészet technikája
+- **Tábla készítés**: fa, gipsz, vászon alap
+- **Festési technika**: tempera, encaustika
+- **Arany háttér**: levélarany, porarany
+- **Védelem**: lakk, viasz
+
+### 9.2 Bizánci ikonográfia
+- **Pantokrátor Krisztus**: uralkodó, áldó Krisztus
+- **Theotokosz**: Mária gyermekével
+- **Szentek**: nimbusz, attribútumok
+- **Angyalok**: hierarchiák, rangok
+
+### 9.3 Freskó és mozaik festészet
+- **Freskó technika**: secco, buon fresco
+- **Mozaik anyagok**: üveg, kő, arany
+- **Színhasználat**: élénk, szimbolikus színek
+- **Kompozíció**: hierarchikus, centrális
+
+## 10. Az ókeresztény szobrászat részletes elemzése
+
+### 10.1 Sarkofág szobrászat
+- **Római hagyományok**: domborműves díszítés
+- **Keresztény témák**: Krisztus élete, apostolok
+- **Stílusjegyek**: naturalisztikus, idealizált
+- **Anyagok**: márvány, mészkő, porfir
+
+### 10.2 Relief szobrászat
+- **Oszlopfők**: geometrikus, növényi motívumok
+- **Szószékek**: apostolok, evangélisták
+- **Oltárkép**: szentképek, bibliai jelenetek
+- **Portálok**: bejáratok díszítése
+
+### 10.3 Kisebb szobrászati művek
+- **Elefántcsont faragványok**: díszdobozok, ereklyetartók
+- **Fafaragványok**: padok, székek, ajtók
+- **Fém munkák**: arany, ezüst, bronz
+- **Üveg tárgyak**: edények, ablakok
+
+## 11. A bizánci szobrászat részletes elemzése
+
+### 11.1 Relief szobrászat
+- **Fali reliefek**: templomok díszítése
+- **Oszlopfők**: geometrikus, növényi motívumok
+- **Ikonok**: domborműves szentképek
+- **Kereszt**: díszített, drágakövekkel
+
+### 11.2 Kisebb szobrászati művek
+- **Ékszerkészítés**: arany, ezüst, drágakövek
+- **Ikonok**: fafaragás, festés
+- **Ereklyetartók**: szentek maradványai
+- **Liturgikus tárgyak**: kehely, patena, tömjénytartó
+
+### 11.3 Stílusjegyek
+- **Hierarchikus arányok**: rang szerinti méretezés
+- **Szimbolikus ábrázolás**: vallási tartalom
+- **Geometrikus formák**: egyszerűség, tisztaság
+- **Frontális beállítás**: merev, szimmetrikus
+
+## 12. Az ókeresztény építészet részletes elemzése
+
+### 12.1 Bazilika típus építészet
+- **Alaprajz**: hosszházas, háromhajós elrendezés
+- **Szerkezet**: oszlopok, boltívek, mennyezet
+- **Tér**: főhajó, mellékhajók, transept
+- **Szentély**: apszis, oltár, kripta
+
+### 12.2 Keresztelőkápolna (Baptisztérium)
+- **Alaprajz**: kör, nyolcszög, kereszt
+- **Keresztelőmedence**: bemerítéses, locsolásos
+- **Díszítés**: mozaikok, freskók
+- **Funkció**: felnőtt, gyermek keresztelés
+
+### 12.3 Mauzóleumok és sírkamrák
+- **Alaprajz**: kör, nyolcszög, kereszt
+- **Szerkezet**: kupola, boltív, bolt
+- **Díszítés**: mozaikok, freskók, domborművek
+- **Funkció**: családi, egyházi temetkezés
+
+### 12.4 Kolostorépítészet
+- **Alaprajz**: udvar körüli elrendezés
+- **Épületek**: templom, refektórium, dormitórium
+- **Szerkezet**: egyszerű, funkcionális
+- **Díszítés**: minimális, szoborszerű
+
+## 13. A bizánci építészet részletes elemzése
+
+### 13.1 Centrális templom típus
+- **Görög kereszt alaprajz**: négy karú, központi kupola
+- **Kupola típusok**: cikkelyes, csegelyes, tamburos
+- **Kilencosztatú tér**: szent tér felosztása
+- **Ikonosztáz**: szentképek elválasztó fal
+
+### 13.2 Hagia Sophia típus
+- **Alaprajz**: hosszházas, centrális kupola
+- **Szerkezet**: hatalmas kupola, boltívek
+- **Tér**: monumentális, fényhatás
+- **Díszítés**: mozaikok, márványok
+
+### 13.3 Kisebb templomok
+- **Kereszt alakú**: egyszerű, centrális
+- **Kör alaprajzú**: rotunda, tholos
+- **Hosszházas**: bazilika típus
+- **Kupolás**: centrális elrendezés
+
+### 13.4 Kolostorépítészet
+- **Athosz**: görög ortodox kolostorok
+- **Balkán**: szerb, bolgár kolostorok
+- **Oroszország**: moszkvai, novgorodi
+- **Kaukázus**: grúz, örmény
+
+## 14. Az ókeresztény és bizánci mozaikművészet
+
+### 14.1 Technikai jellemzők
+- **Anyagok**: üveg, kő, arany, ezüst
+- **Készítés**: tesselae, opus tessellatum
+- **Alap**: vakolat, mész, homok
+- **Védelem**: lakk, viasz
+
+### 14.2 Ókeresztény mozaikok
+- **Katakombák**: egyszerű, szimbolikus
+- **Bazilikák**: falak, boltozatok
+- **Keresztelőkápolnák**: medence körül
+- **Mauzóleumok**: sírkamrák díszítése
+
+### 14.3 Bizánci mozaikok
+- **Templomok**: falak, kupolák, boltozatok
+- **Paloták**: trónusok, termek
+- **Kolostorok**: refektóriumok, templomok
+- **Nyilvános épületek**: bazilikák, fórumok
+
+### 14.4 Stílusjegyek
+- **Izokefália**: fejek egyenletes elrendezése
+- **Arany háttér**: fényesség, ünnepélyesség
+- **Hierarchikus kompozíció**: központi alakok
+- **Szimbolikus színek**: kék, piros, zöld, arany
+
+## 15. Az ókeresztény és bizánci kézművesség
+
+### 15.1 Ékszerkészítés
+- **Anyagok**: arany, ezüst, drágakövek
+- **Technikák**: filigrán, granuláció, cloisonné
+- **Típusok**: gyűrűk, nyakláncok, koronák
+- **Díszítés**: geometrikus, növényi motívumok
+
+### 15.2 Textilművészet
+- **Anyagok**: selyem, len, gyapjú
+- **Technikák**: brokát, gobelin, hímzés
+- **Típusok**: ruházat, templomi textíliák
+- **Díszítés**: geometrikus, növényi, figurális
+
+### 15.3 Üvegművészet
+- **Ablaküvegek**: színes, átlátszó
+- **Edények**: kehely, patena, tömjénytartó
+- **Ereklyetartók**: szentek maradványai
+- **Díszítés**: gravírozás, festés
+
+### 15.4 Fafaragás
+- **Templomi bútorok**: padok, székek, ajtók
+- **Liturgikus tárgyak**: szószék, oltár
+- **Díszítés**: geometrikus, növényi motívumok
+- **Technikák**: dombormű, áttört díszítés
+
+## 16. Az ókeresztény és bizánci miniatúrafestészet
+
+### 16.1 Kézirat illusztrációk
+- **Evangéliumok**: Krisztus élete, apostolok
+- **Zsolozsmák**: szentek, angyalok
+- **Biblia**: ószövetségi jelenetek
+- **Egyházi könyvek**: liturgikus szövegek
+
+### 16.2 Technikai jellemzők
+- **Anyagok**: pergamen, papír, festékek
+- **Technikák**: tempera, akvarell, gouache
+- **Díszítés**: arany, ezüst, drágakövek
+- **Betűk**: kalligráfia, ornamentika
+
+### 16.3 Stílusjegyek
+- **Miniatúra**: apró, részletes ábrázolás
+- **Ornamentika**: geometrikus, növényi motívumok
+- **Színhasználat**: élénk, kontrasztos
+- **Kompozíció**: egyszerű, szimmetrikus
+
+## 17. Az ókeresztény és bizánci zene és hang
+
+### 17.1 Liturgikus zene
+- **Gregorián ének**: egyszólamú, latin nyelvű
+- **Bizánci ének**: görög nyelvű, orientalizmus
+- **Hangszerek**: orgona, harang, cimbalom
+- **Énekfajták**: antifóna, responszórium
+
+### 17.2 Templomi hanghatások
+- **Akusztika**: kupola, boltív, bolt
+- **Fény és hang**: mozaikok, freskók
+- **Ritualitás**: liturgikus szertartások
+- **Közösség**: egyház, hívek
+
+## 18. Az ókeresztény és bizánci művészet hatása és öröksége
+
+### 18.1 Közvetlen hatás
+- **Gótika**: bazilika típus, kupola építészet
+- **Reneszánsz**: antik hagyományok, humanizmus
+- **Barokk**: ünnepélyesség, fényhatás
+- **Neoklasszicizmus**: egyszerűség, tisztaság
+
+### 18.2 Keleti hatás
+- **Oroszország**: ikonfestészet, templomépítészet
+- **Balkán**: ortodox templomok, kolostorok
+- **Kaukázus**: grúz, örmény művészet
+- **Közel-Kelet**: szír, kopt művészet
+
+### 18.3 Modern hatás
+- **Neobizánci stílus**: XIX. századi újjáéledés
+- **Art Nouveau**: geometrikus, növényi motívumok
+- **Modern építészet**: kupola, centrális elrendezés
+- **Kortárs művészet**: szimbolizmus, absztrakció
+
+## 19. Összefoglalás és értékelés
+
+### 19.1 Az ókeresztény művészet jelentősége
+- **Vallási művészet**: kereszténység elterjedése
+- **Kulturális örökség**: antik hagyományok
+- **Építészeti fejlődés**: bazilika, kupola
+- **Díszítőművészet**: mozaik, freskó
+
+### 19.2 A bizánci művészet jelentősége
+- **Keleti hagyományok**: görög, keleti kultúra
+- **Ikonfestészet**: vallási művészet
+- **Templomépítészet**: centrális, kupolás
+- **Kézművesség**: ékszer, textil, üveg
+
+### 19.3 Örök értékek
+- **Szellemi tartalom**: vallási, filozófiai
+- **Művészeti minőség**: technika, stílus
+- **Kulturális identitás**: nemzeti, regionális
+- **Emberi értékek**: hit, remény, szeretet
 
 ---
 
