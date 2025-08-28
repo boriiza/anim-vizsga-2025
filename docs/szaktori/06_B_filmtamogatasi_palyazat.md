@@ -4,6 +4,11 @@
 
 **Egy filmtámogatási pályázatra szeretne filmtervet beadni. A rövid határidőre tekintettel csak olyan anyaggal tud pályázni, amit valamilyen mértékben korábban már előkészített, és kevés kiegészítést igényel. Ismertesse, milyen előkészítési anyagokat célszerű benyújtania pályázatra a sikeres elbírálás érdekében! Vázolja föl a mozgóképi tartalomelőállítás lényegesebb gyártási feladatait, melyeket ütemterv formájában csatolnia kell a pályázathoz!**
 
+- Produkciós tervezési és gyártásvezetési ismeretek
+- Pénzügyi, technikai, művészeti előkészítés feladatai
+- Filmes támogatási pályázatok
+
+
 ## Tanulási vázlatpontok
 
 ### 1. Produkciós tervezési és gyártásvezetési ismeretek

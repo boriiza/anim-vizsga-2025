@@ -1,392 +1,200 @@
 # 20_B_vfx_3d_szimulacio
 
-## Eredeti tételezés
+## Feladatleírás
 
 **Stáb-értekezleten van, egy katasztrófafilm trükkjeleneteinek elkészítésében vesz részt. A film több jelenetében is részletesen láthatók összeomló épületek és leszakadó hidak, ezeknek a jeleneteknek a megvalósítási lehetőségeit beszéli meg kollégáival. Ismertesse a 3D fizikai szimulációk alkalmazásának módját, és hasonlítsa össze a makettfelvételes technika lehetőségeivel!**
+
+- Filmtrükkök tervezése, SFX és VFX technikák közötti különbség
+- Filmtrükkök	fejlődése	címszavakban	(makettfelvételek,	lassított	felvételek lehetőségei és korlátai)
+- 3D fizikai szimulációk készítése, modellezés, renderelés, utómunka
 
 ## Tanulási vázlatpontok
 
 ### 1. Filmtrükkök tervezése, SFX és VFX technikák közötti különbség
 
-#### SFX (Special Effects) - Gyakorlati effektek
-- **Gyakorlati effektek**: valós időben történő effektek
-- **Fizikai effektek**: tűz, robbanás, füst, eső, földrengés
-- **Méchanikai effektek**: mozgó díszletek, trapdoors, hidraulikus rendszerek
-- **Stunt effektek**: kaszkadőrök, veszélyes jelenetek
-- **Helyszíni effektek**: valós környezetben készültek
+#### SFX (Special Effects) - gyakorlati effektek katasztrófajelenetekhez
+- **Gyakorlati effektek**: valós időben történő, fizikai effektek
+- **Díszletek**: épített épületek, hidak, valós tárgyak
+- **Makettek**: kicsinyített modellek, valós anyagokból
+- **Robbanások**: valós robbanási effektek, tűz, füst
+- **Időjárási hatások**: eső, szél, köd, hó, vihar
 
-#### VFX (Visual Effects) - Vizuális effektek
-- **Digitális effektek**: számítógéppel készített effektek
-- **Post-produkciós effektek**: felvétel után hozzáadott
-- **Kompozitálás**: különböző elemek egyesítése
-- **3D modellezés**: virtuális objektumok létrehozása
-- **Animáció**: mozgó digitális elemek
+#### VFX (Visual Effects) - vizuális effektek katasztrófajelenetekhez
+- **Digitális effektek**: számítógéppel létrehozott elemek
+- **3D fizikai szimulációk**: épületek összeomlása, hidak leszakadása
+- **Kompozitálás**: különböző forrásokból származó képek összeillesztése
+- **Particle system**: törmelék, por, füst, szikrák
+- **Színkorrekció**: fény és szín módosítása, atmoszféra
 
-#### SFX vs VFX katasztrófa jelenetekben
-- **Időzítés**: SFX valós időben, VFX utólag
-- **Költség**: SFX drágább, VFX olcsóbb
-- **Biztonság**: SFX veszélyesebb, VFX biztonságos
-- **Realizmus**: SFX valósághűbb, VFX manipulálható
-- **Flexibilitás**: SFX fix, VFX módosítható
+#### SFX és VFX kombinálása katasztrófajelenetekben
+- **Hibrid megoldások**: valós és digitális elemek egyesítése
+- **Költséghatékonyság**: valós elemek maximális kihasználása
+- **Biztonság**: veszélyes jelenetek digitális megvalósítása
+- **Minőség**: természetes megjelenés és valósághűség
+- **Időoptimalizálás**: forgatási folyamat hatékonysága
 
-### 2. Filmtrükkök fejlődése címszavakban
-
-#### Makettfelvételek
-- **Méretarányos makettek**: valós épületek kicsinyítése
-- **Helyszín integráció**: valós környezetbe illesztés
-- **Fény és árnyék**: természetes megvilágítás
-- **Kamera mozgás**: komplex kamera pályák
-- **3D tér illúzió**: mélység és tér érzés
-
-#### Lassított felvételek lehetőségei
-- **Idő lassítása**: mozgás részletes megfigyelése
-- **Fizika megfigyelése**: összeomlás folyamata
-- **Dramatikus hatás**: feszültség növelése
-- **Részletek láthatósága**: apró elemek megfigyelése
-- **Emocionális hatás**: közönség elmerülése
-
-#### Lassított felvételek korlátai
-- **Időigény**: hosszú felvételi idő
-- **Költség**: drága felszerelés
-- **Technikai nehézségek**: kamera sebesség beállítás
-- **Fény kezelés**: megvilágítás problémák
-- **Hang szinkronizáció**: hang sebesség korrekció
-
-### 3. 3D fizikai szimulációk készítése
-
-#### 3D modellező szoftverek
-- **Autodesk Maya**: professzionális 3D modellezés
-- **Blender**: ingyenes 3D szoftver
-- **3ds Max**: Autodesk termék
-- **Cinema 4D**: MAXON szoftver
-- **Houdini**: SideFX szoftver
-
-#### Programkiegészítők ismerete
-- **Plugins**: szoftver bővítések
-- **Scripts**: automatizálás
-- **Custom tools**: egyedi eszközök
-- **Third-party software**: külső szoftverek
-- **Integration tools**: integrációs eszközök
-
-#### Specifikus ("törhető") 3D modellek építése
-- **Destructible geometry**: törhető geometria
-- **Fracture systems**: törési rendszerek
-- **Breakable objects**: törhető objektumok
-- **Structural integrity**: szerkezeti integritás
-- **Material properties**: anyag tulajdonságok
-
-### 4. Fizikai szimulációs technikák
-
-#### Rigid body fizika
-- **Merev testek**: nem deformálódó objektumok
-- **Fizika motor**: fizikai szimuláció motor
-- **Gravitáció**: nehézségi erő hatása
-- **Ütközés**: objektumok közötti ütközés
-- **Impulzus**: mozgás és erő átadás
-
-#### Soft body fizika
-- **Puha testek**: deformálódó objektumok
-- **Rugalmas anyagok**: rugalmas tulajdonságok
-- **Deformáció**: alakváltozás
-- **Feszültség**: anyag feszültsége
-- **Viszkozitás**: anyag viszkozitása
-
-#### Collision rendszerek
-- **Ütközés felismerés**: collision detection
-- **Ütközés válasz**: collision response
-- **Ütközés feloldás**: collision resolution
-- **Ütközés optimalizálás**: collision optimization
-- **Hierarchikus ütközés**: hierarchical collision
-
-### 5. Modellezés és renderelés
-
-#### 3D modellezési folyamat
-- **Koncepció**: alapötlet és tervezés
-- **Blocking**: alapvető formák
-- **Detailing**: részletek hozzáadása
-- **Texturing**: textúrák alkalmazása
-- **Rigging**: csontváz létrehozása
-
-#### Renderelési technikák
-- **Real-time rendering**: valós időben renderelés
-- **Offline rendering**: offline renderelés
-- **Ray tracing**: sugárkövetés
-- **Path tracing**: útvonalkövetés
-- **GPU rendering**: grafikus kártya renderelés
-
-#### Renderelési optimalizálás
-- **LOD (Level of Detail)**: különböző felbontások
-- **Culling**: nem látható elemek elrejtése
-- **Instancing**: azonos objektumok többszörös használata
-- **Texture atlasing**: textúrák egyesítése
-- **Compression**: tömörítés
-
-### 6. Utómunka és effektezési lehetőségek
-
-#### Kompozitálás
-- **Node-based compositing**: csomópont alapú kompozitálás
-- **Layer-based compositing**: réteg alapú kompozitálás
-- **Color grading**: színkorrekció
-- **Lighting integration**: megvilágítás integráció
-- **Atmospheric effects**: légköri hatások
-
-#### Particle system
-- **Részecske generálás**: particle generation
-- **Részecske mozgás**: particle motion
-- **Részecske életciklus**: particle lifecycle
-- **Részecske kölcsönhatás**: particle interaction
-- **Részecske renderelés**: particle rendering
-
-#### További effektek
-- **Füst és por**: smoke and dust
-- **Tűz és robbanás**: fire and explosion
-- **Víz és folyadék**: water and fluid
-- **Föld és kő**: earth and stone
-- **Fém és üveg**: metal and glass
-
-### 7. Makettfelvételes technika
+### 2. Filmtrükkök fejlődése címszavakban (makettfelvételek, lassított felvételek lehetőségei és korlátai)
 
 #### Méretarányos makett építése
-- **Méretarány tervezés**: scale ratio planning
-- **Anyag választás**: material selection
-- **Szerkezeti integritás**: structural integrity
-- **Részletesség**: level of detail
-- **Minőség**: quality standards
+- **Méretarány**: valós épületek és hidak kicsinyítése
+- **Anyagok**: könnyű, de valósághű építőanyagok
+- **Struktúra**: összeomlásra és leszakadásra tervezett konstrukciók
+- **Részletesség**: vizuálisan meggyőző megjelenés
+- **Funkcionalitás**: mechanikus vezérlőrendszerek
 
-#### Méretarány és lassítás viszonya
-- **Fizikai törvények**: physical laws
-- **Idő skálázás**: time scaling
-- **Mozgás sebesség**: motion speed
-- **Erő hatások**: force effects
-- **Realizmus**: realism
+#### A méretarány és a lassítás mértékének viszonya
+- **Fizikai törvények**: gravitáció és mozgás skálázása
+- **Lassított felvétel**: valós sebesség csökkentése
+- **Időzítés**: események sebességének optimalizálása
+- **Kamera beállítások**: megfelelő FPS és expozíció
+- **Fénybeállítás**: lassított felvételhez optimalizált megvilágítás
 
-#### Makettfelvétel korlátai
-- **Utólagos korrekciókra nincs lehetőség**: no post-production corrections
-- **Csak ismétlésre**: only repetition possible
-- **Időigény**: time-consuming process
-- **Költség**: expensive materials
-- **Helyigény**: space requirements
+#### Makettfelvételek korlátai
+- **Utólagos korrekciókra nincs lehetőség**: csak ismétlésre
+- **Költségek**: minden újabb felvétel drága
+- **Időigény**: makettek újraépítése és beállítása
+- **Skála korlátok**: túl nagy vagy túl kicsi modellek problémái
+- **Fizikai korlátok**: valós anyagok viselkedése
 
-### 8. 3D vs Makett összehasonlítás
+#### Lassított felvételek lehetőségei és korlátai
+- **Időzítés**: események sebességének szabályozása
+- **Kamera mozgás**: lassú, precíz kamera pályák
+- **Fénybeállítás**: hosszú expozíció, fény optimalizálás
+- **Stabilitás**: rezgésmentes felvétel
+- **Korlátok**: túl lassú felvétel problémái
 
-#### 3D fizikai szimuláció előnyei
-- **Módosíthatóság**: post-production flexibility
-- **Költséghatékonyság**: cost-effectiveness
-- **Biztonság**: safety
-- **Pontosság**: accuracy
-- **Ismételhetőség**: repeatability
+### 3. 3D fizikai szimulációk készítése, modellezés, renderelés, utómunka
 
-#### Makettfelvétel előnyei
-- **Valósághűség**: photorealism
-- **Fizikai pontosság**: physical accuracy
-- **Fény és árnyék**: natural lighting
-- **Anyag tulajdonságok**: material properties
-- **Kamera mozgás**: camera movement flexibility
+#### 3D modellező szoftverek és programkiegészítők ismerete
+- **Alapvető modellezés**: Maya, 3ds Max, Blender
+- **Fizikai szimuláció**: Houdini, RealFlow, FumeFX
+- **Programkiegészítők**: dinamika és fizika plugin-ok
+- **Scripting**: Python, MEL, VEX programozás
+- **Asset management**: modellek és textúrák kezelése
 
-#### Technikai összehasonlítás
-- **Felbontás**: resolution comparison
-- **Fény kezelés**: lighting control
-- **Kamera mozgás**: camera movement
-- **Időzítés**: timing control
-- **Költség**: cost comparison
+#### Specifikus ("törhető") 3D modellek építése
+- **Rigid body**: merev testek, épületek, hidak
+- **Soft body**: rugalmas anyagok, textil, papír
+- **Collision**: ütközés detektálás és kezelés
+- **Fracture**: törés és szétesés szimulációja
+- **Destruction**: teljes pusztulás és összeomlás
 
-### 9. Katasztrófa jelenetek speciális igényei
+#### Fizikai szimuláció típusai
+- **Rigid body dynamics**: merev testek mozgása és ütközése
+- **Soft body dynamics**: rugalmas anyagok deformációja
+- **Fluid dynamics**: folyadékok és gázok mozgása
+- **Cloth simulation**: textil és ruházat mozgása
+- **Particle systems**: törmelék, por, füst, szikrák
 
-#### Összeomló épületek
-- **Szerkezeti elemek**: structural elements
-- **Anyag tulajdonságok**: material properties
-- **Fizikai folyamatok**: physical processes
-- **Dramatikus hatás**: dramatic effect
-- **Biztonsági követelmények**: safety requirements
+#### 3D fizikai szimulációk készítése
+- **Fizikai paraméterek**: súly, sűrűség, rugalmasság
+- **Környezeti hatások**: gravitáció, szél, víz
+- **Ütközési felületek**: objektumok közötti interakció
+- **Korlátozások**: mozgás és pozíció korlátozása
+- **Kezdeti feltételek**: szimuláció indítási paraméterei
 
-#### Leszakadó hidak
-- **Hidépítészeti elemek**: bridge engineering elements
-- **Fizikai erők**: physical forces
-- **Anyag viselkedés**: material behavior
-- **Időzítés**: timing
-- **Kamera pozíció**: camera position
+#### Renderelés és optimalizálás
+- **Render engine**: Arnold, V-Ray, Redshift
+- **Optimalizálás**: számítási teljesítmény és minőség
+- **Cache**: szimulációs adatok tárolása
+- **LOD (Level of Detail)**: részletesség szintek
+- **Batch rendering**: nagy mennyiségű felvétel feldolgozása
 
-#### Technikai kihívások
-- **Fizikai pontosság**: physical accuracy
-- **Vizuális minőség**: visual quality
-- **Időzítés**: timing
-- **Költség**: cost
-- **Biztonság**: safety
+### 4. 3D fizikai szimulációk vs. makettfelvételek összehasonlítása
 
-### 10. Produkciós folyamat és minőségbiztosítás
+#### 3D fizikai szimulációk előnyei
+- **Utólagos korrekciók**: bármikor módosítható paraméterek
+- **Biztonság**: veszélyes jelenetek kockázatmentes megvalósítása
+- **Költséghatékonyság**: többszöri felhasználás, újrafelvétel nélkül
+- **Skála**: bármilyen méretű objektumok és események
+- **Kontroll**: minden részlet pontosan szabályozható
 
-#### Pre-produkció
-- **Koncepció fejlesztés**: concept development
-- **Technikai tervezés**: technical planning
-- **Költségvetés**: budget planning
-- **Ütemterv**: schedule planning
-- **Csapat összeállítás**: team assembly
+#### Makettfelvételek előnyei
+- **Valósághűség**: természetes anyagok és fényhatások
+- **Tactile minőség**: valós textúrák és felületek
+- **Atmoszféra**: természetes környezeti hatások
+- **Kamera mozgás**: valós kamera pályák és mozgások
+- **Fény**: természetes megvilágítás és árnyékok
+
+#### Költségek és időigény összehasonlítása
+- **3D szimuláció**: magas kezdeti költség, alacsony ismétlési költség
+- **Makettfelvétel**: alacsony kezdeti költség, magas ismétlési költség
+- **Fejlesztési idő**: 3D hosszabb előkészítés, makett gyorsabb
+- **Utómunka**: 3D több utómunka, makett kevesebb
+- **Minőség**: mindkét technika kiváló eredményt ad
+
+### 5. Katasztrófajelenetek specifikus megvalósítása
+
+#### Összeomló épületek szimulációja
+- **Struktúra modellezés**: épület váz és szerkezet
+- **Törési pontok**: gyenge pontok és csatlakozások
+- **Gravitáció**: épületek súlyának és stabilitásának szimulálása
+- **Törmelék**: épületrészek szétesése és zuhanása
+- **Atmoszféra**: por, füst, szikrák
+
+#### Leszakadó hidak szimulációja
+- **Hidkonstrukció**: híd szerkezeti elemei
+- **Feszültség**: hidak terhelése és deformációja
+- **Törési mechanizmus**: híd összeomlásának folyamata
+- **Víz hatása**: folyó és áramlás szimulálása
+- **Kamera mozgás**: dinamikus nézetek és perspektívák
+
+#### Hibrid megoldások katasztrófajelenetekhez
+- **Valós makettek + digitális elemek**: alapstruktúra valós, részletek digitális
+- **Kamera tracking**: valós kamera mozgás digitális elemekkel
+- **Fényegységesség**: valós és virtuális világítás harmonizálása
+- **Particle integration**: valós és digitális részecskék kombinálása
+- **Kompozitálás**: minden elem tökéletes összeillesztése
+
+### 6. Kompozitálás és utómunka effektezési lehetőségei
+
+#### Particle system alkalmazása
+- **Törmelék**: épületek és hidak szétesése
+- **Por és füst**: atmoszférikus hatások
+- **Szikrák**: elektromos áramok és robbanások
+- **Víz**: eső, hullámok, cseppek
+- **Tűz**: lángok és hőhatások
+
+#### Kompozitálási technikák
+- **Rétegkezelés**: valós és virtuális elemek rétegezése
+- **Színkiegyenlítés**: egységes színvilág létrehozása
+- **Fényegységesség**: árnyékok és megvilágítás harmonizálása
+- **Atmoszféra**: légköri hatások és mélység
+- **Végső renderelés**: összes elem egyesítése
+
+#### Utómunka és finomhangolás
+- **Színkorrekció**: végső színvilág beállítása
+- **Fényoptimalizálás**: árnyékok és fényhatások
+- **Atmoszféra**: légköri hatások és köd
+- **Minőség ellenőrzés**: végső tesztelés és javítások
+- **Exportálás**: különböző formátumok és minőségek
+
+### 7. Gyártási workflow és minőségbiztosítás
+
+#### Pre-produkciós fázis
+- **Technikai tervezés**: megvalósítási terv kidolgozása
+- **Költségvetés**: anyagi források tervezése és felosztása
+- **Időterv**: gyártási folyamat ütemezése
+- **Csapat összeállítás**: szakemberek kiválasztása
+- **Technológia kiválasztás**: 3D vs. makett vs. hibrid
 
 #### Produkciós fázis
-- **3D modellezés**: 3D modeling
-- **Fizikai szimuláció**: physical simulation
-- **Renderelés**: rendering
-- **Makett építés**: miniature construction
-- **Felvételek**: filming
+- **Valós felvételek**: makettek és környezet
+- **3D szimulációk**: fizikai modellek és renderelés
+- **Kamera tracking**: mozgás követése és visszafejtése
+- **Fénybeállítás**: természetes és mesterséges világítás
+- **Minőség ellenőrzés**: folyamatos tesztelés
 
-#### Post-produkció
-- **Kompozitálás**: compositing
-- **Színkorrekció**: color grading
-- **Effektek**: effects
-- **Minőség ellenőrzés**: quality control
-- **Végső integráció**: final integration
+#### Post-produkciós fázis
+- **Kompozitálás**: valós és virtuális elemek összeállítása
+- **Particle effektek**: törmelék, por, füst hozzáadása
+- **Színkorrekció**: egységes színvilág létrehozása
+- **Fényegységesség**: árnyékok és megvilágítás harmonizálása
+- **Végső renderelés**: exportálás és szállítás
 
-## Kulcsszavak és fogalmak
-- **3D fizikai szimuláció**: számítógépes fizikai szimuláció
-- **Makettfelvételes technika**: méretarányos modellek felvétele
-- **Katasztrófafilm**: katasztrófa témájú film
-- **Trükkjelenetek**: speciális effektekkel készült jelenetek
-- **Összeomló épületek**: összedőlő épületek
-- **Leszakadó hidak**: összeomló hidak
-- **SFX (Special Effects)**: gyakorlati effektek, valós időben történő effektek
-- **VFX (Visual Effects)**: vizuális effektek, számítógéppel készített effektek
-- **Gyakorlati effektek**: valós időben történő effektek
-- **Fizikai effektek**: tűz, robbanás, füst, eső, földrengés
-- **Méchanikai effektek**: mozgó díszletek, trapdoors, hidraulikus rendszerek
-- **Stunt effektek**: kaszkadőrök, veszélyes jelenetek
-- **Helyszíni effektek**: valós környezetben készültek
-- **Digitális effektek**: számítógéppel készített effektek
-- **Post-produkciós effektek**: felvétel után hozzáadott
-- **Kompozitálás**: különböző elemek egyesítése
-- **3D modellezés**: virtuális objektumok létrehozása
-- **Animáció**: mozgó digitális elemek
-- **Időzítés**: SFX valós időben, VFX utólag
-- **Költség**: SFX drágább, VFX olcsóbb
-- **Biztonság**: SFX veszélyesebb, VFX biztonságos
-- **Realizmus**: SFX valósághűbb, VFX manipulálható
-- **Flexibilitás**: SFX fix, VFX módosítható
-- **Méretarányos makettek**: valós épületek kicsinyítése
-- **Helyszín integráció**: valós környezetbe illesztés
-- **Fény és árnyék**: természetes megvilágítás
-- **Kamera mozgás**: komplex kamera pályák
-- **3D tér illúzió**: mélység és tér érzés
-- **Idő lassítása**: mozgás részletes megfigyelése
-- **Fizika megfigyelése**: összeomlás folyamata
-- **Dramatikus hatás**: feszültség növelése
-- **Részletek láthatósága**: apró elemek megfigyelése
-- **Emocionális hatás**: közönség elmerülése
-- **Időigény**: hosszú felvételi idő
-- **Költség**: drága felszerelés
-- **Technikai nehézségek**: kamera sebesség beállítás
-- **Fény kezelés**: megvilágítás problémák
-- **Hang szinkronizáció**: hang sebesség korrekció
-- **Autodesk Maya**: professzionális 3D modellezés
-- **Blender**: ingyenes 3D szoftver
-- **3ds Max**: Autodesk termék
-- **Cinema 4D**: MAXON szoftver
-- **Houdini**: SideFX szoftver
-- **Plugins**: szoftver bővítések
-- **Scripts**: automatizálás
-- **Custom tools**: egyedi eszközök
-- **Third-party software**: külső szoftverek
-- **Integration tools**: integrációs eszközök
-- **Destructible geometry**: törhető geometria
-- **Fracture systems**: törési rendszerek
-- **Breakable objects**: törhető objektumok
-- **Structural integrity**: szerkezeti integritás
-- **Material properties**: anyag tulajdonságok
-- **Merev testek**: nem deformálódó objektumok
-- **Fizika motor**: fizikai szimuláció motor
-- **Gravitáció**: nehézségi erő hatása
-- **Ütközés**: objektumok közötti ütközés
-- **Impulzus**: mozgás és erő átadás
-- **Puha testek**: deformálódó objektumok
-- **Rugalmas anyagok**: rugalmas tulajdonságok
-- **Deformáció**: alakváltozás
-- **Feszültség**: anyag feszültsége
-- **Viszkozitás**: anyag viszkozitása
-- **Ütközés felismerés**: collision detection
-- **Ütközés válasz**: collision response
-- **Ütközés feloldás**: collision resolution
-- **Ütközés optimalizálás**: collision optimization
-- **Hierarchikus ütközés**: hierarchical collision
-- **Koncepció**: alapötlet és tervezés
-- **Blocking**: alapvető formák
-- **Detailing**: részletek hozzáadása
-- **Texturing**: textúrák alkalmazása
-- **Rigging**: csontváz létrehozása
-- **Real-time rendering**: valós időben renderelés
-- **Offline rendering**: offline renderelés
-- **Ray tracing**: sugárkövetés
-- **Path tracing**: útvonalkövetés
-- **GPU rendering**: grafikus kártya renderelés
-- **LOD (Level of Detail)**: különböző felbontások
-- **Culling**: nem látható elemek elrejtése
-- **Instancing**: azonos objektumok többszörös használata
-- **Texture atlasing**: textúrák egyesítése
-- **Tömörítés**: compression
-- **Csomópont alapú kompozitálás**: node-based compositing
-- **Réteg alapú kompozitálás**: layer-based compositing
-- **Színkorrekció**: color grading
-- **Megvilágítás integráció**: lighting integration
-- **Légköri hatások**: atmospheric effects
-- **Részecske generálás**: particle generation
-- **Részecske mozgás**: particle motion
-- **Részecske életciklus**: particle lifecycle
-- **Részecske kölcsönhatás**: particle interaction
-- **Részecske renderelés**: particle rendering
-- **Füst és por**: smoke and dust
-- **Tűz és robbanás**: fire and explosion
-- **Víz és folyadék**: water and fluid
-- **Föld és kő**: earth and stone
-- **Fém és üveg**: metal and glass
-- **Méretarány tervezés**: scale ratio planning
-- **Anyag választás**: material selection
-- **Szerkezeti integritás**: structural integrity
-- **Részletesség**: level of detail
-- **Minőség**: quality standards
-- **Fizikai törvények**: physical laws
-- **Idő skálázás**: time scaling
-- **Mozgás sebesség**: motion speed
-- **Erő hatások**: force effects
-- **Utólagos korrekciókra nincs lehetőség**: no post-production corrections
-- **Csak ismétlésre**: only repetition possible
-- **Időigény**: time-consuming process
-- **Drága anyagok**: expensive materials
-- **Helyigény**: space requirements
-- **Módosíthatóság**: post-production flexibility
-- **Költséghatékonyság**: cost-effectiveness
-- **Biztonság**: safety
-- **Pontosság**: accuracy
-- **Ismételhetőség**: repeatability
-- **Valósághűség**: photorealism
-- **Fizikai pontosság**: physical accuracy
-- **Természetes megvilágítás**: natural lighting
-- **Anyag tulajdonságok**: material properties
-- **Kamera mozgás rugalmassága**: camera movement flexibility
-- **Felbontás összehasonlítás**: resolution comparison
-- **Megvilágítás vezérlés**: lighting control
-- **Kamera mozgás**: camera movement
-- **Időzítés vezérlés**: timing control
-- **Költség összehasonlítás**: cost comparison
-- **Szerkezeti elemek**: structural elements
-- **Anyag tulajdonságok**: material properties
-- **Fizikai folyamatok**: physical processes
-- **Dramatikus hatás**: dramatic effect
-- **Biztonsági követelmények**: safety requirements
-- **Hidépítészeti elemek**: bridge engineering elements
-- **Fizikai erők**: physical forces
-- **Anyag viselkedés**: material behavior
-- **Időzítés**: timing
-- **Kamera pozíció**: camera position
-- **Fizikai pontosság**: physical accuracy
-- **Vizuális minőség**: visual quality
-- **Költség**: cost
-- **Biztonság**: safety
-- **Koncepció fejlesztés**: concept development
-- **Technikai tervezés**: technical planning
-- **Költségvetés**: budget planning
-- **Ütemterv**: schedule planning
-- **Csapat összeállítás**: team assembly
-- **Fizikai szimuláció**: physical simulation
-- **Renderelés**: rendering
-- **Makett építés**: miniature construction
-- **Felvételek**: filming
-- **Effektek**: effects
-- **Minőség ellenőrzés**: quality control
-- **Végső integráció**: final integration
+#### Minőségbiztosítás
+- **Technikai minőség**: felbontás, színpontosság, fényerő
+- **Vizuális minőség**: valósághűség, művészi integritás
+- **Stílus konzisztencia**: egységes megjelenés
+- **Fizikai pontosság**: szimulációk valósághűsége
+- **Költséghatékonyság**: idő és erőforrás optimalizálás

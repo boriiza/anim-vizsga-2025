@@ -1,25 +1,30 @@
 # 03_B_nemzetkozi_animacio
 
-## Eredeti tételezés
+## Feladatleírás
 
 **Felkérik, hogy egy animációs workshop keretében tartson ismeretterjesztő előadást a nemzetközi animáció történetéről, és a műfaj jelentősebb alkotóiról a kezdetektől napjainkig. Hogyan állítaná össze a prezentáció anyagát, mely alkotók, stúdiók munkáit emelné ki, milyen rajzanimációs és milyen bábanimációs filmeket említene? Térjen ki egész estés és rövidfilmes alkotásokra is!**
+
+- Térjen ki egész estés és rövidfilmes alkotásokra is!
+- Az animációs film kezdetei, j elentősebb alkotók művei a világban
+- Rajzfilmes, 3D- és bábanimációs produkciókat gyártó stúdiók a kezdetekben és most
+- Jelentős alkotók, nemzetközi elismerések, legújabb trendek
 
 ## Tanulási vázlatpontok
 
 ### 1. Az animációs film kezdetei, jelentősebb alkotók művei a világban
 
-#### Optikai játékok és előzmények (1820-1895)
-- **Thaumatróp**: 1825, John Ayrton Paris
-- **Fenakisztoszkóp**: 1833, Joseph Plateau
-- **Zoetróp**: 1834, William George Horner
-- **Praxinoszkóp**: 1877, Émile Reynaud
-- **Optikai Színház**: 1892. október 28., Émile Reynaud
+#### Optikai játékok és előzmények (1820-1900)
+- **Thaumatróp**: 1825, John Ayrton Paris, két oldalú kép forgatása, optikai illúzió
+- **Fenakisztoszkóp**: 1833, Joseph Plateau, forgó korongos animációs eszköz
+- **Zoetróp**: 1834, William George Horner, hengeres animációs eszköz, folyamatos mozgás
+- **Praxinoszkóp**: 1877, Émile Reynaud, továbbfejlesztett zoetróp, tükörrel
+- **1892. október 28. Optikai Színház**: Émile Reynaud első animációs előadása
 
-#### Korai filmes kísérletek (1895-1910)
-- **Utazás a Holdba** (1902): Georges Méliès
-- **Vicces arcok humoros fázisai** (1906): James Stuart Blackton
-- **Fantazmagória** (1908): Émile Cohl
-- **Gertie, a dinoszaurusz** (1914): Winsor McCay
+#### Korai animációs filmek (1900-1920)
+- **Utazás a Holdba** (1902): Georges Méliès, filmes trükkök és animáció
+- **Vicces arcok humoros fázisai** (1906): J. Stuart Blackton, rajzolt animáció
+- **Fantazmagória** (1908): Émile Cohl, első rajzolt animációs film
+- **Gertie, a dinoszaurusz** (1914): Winsor McCay, karakteralapú animáció
 
 ### 2. Rajzfilmes, 3D- és bábanimációs produkciókat gyártó stúdiók a kezdetekben és most
 

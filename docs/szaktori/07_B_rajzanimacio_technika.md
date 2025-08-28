@@ -4,6 +4,11 @@
 
 **Lehetőséget kap, hogy egy grafikai stúdió bemutatkozó filmjét Ön készítse el. Rajzanimációs technikájú filmtervét ismertetnie kell a stúdió képviselőivel. Mutassa be, hogyan és milyen munkafázisokon keresztül valósul meg egy rajzanimációs film az ötlettől a kész alkotásig! Hasonlítsa össze a rajzanimációs technikát a többi lehetséges animációs technikával!**
 
+- A rajzolt animáció fajtái (hagyományos és digitális technikák)
+- Rajzanimációs fogalmak (pl. rough, clean up, inbetween)
+- A rajzanimáció készre gyártásának	folyamata (költségvetés, tervezéstől az utómunkálatokig)
+- A munka során használt berendezések, hardverek és szoftverek
+
 ## Tanulási vázlatpontok
 
 ### 1. A rajzolt animáció fajtái (hagyományos és digitális technikák)

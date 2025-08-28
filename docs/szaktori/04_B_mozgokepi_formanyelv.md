@@ -4,6 +4,11 @@
 
 **Egy médiaügynökség számára, egy reklámfilm sztoribordját kell elkészítenie - szöveges leírás alapján. Az első változat leadása után arra kérik, hogy szó szerint alkalmazkodjon a korábban kapott leíráshoz, ezért Ön kénytelen az írott szöveg és a filmes formanyelv közötti legalapvetőbb különbségekről udvarias formában tájékoztatást adni a megrendelő számára. Ismertesse a mozgóképi kommunikáció alapvető, filmnyelvi eszközeit! Nevezzen meg néhány filmtörténetileg jelentős rendezőt, akik hatással voltak a filmnyelv alakulására!**
 
+- Mozgóképi formanyelv és műfajismeret , klasszikus filmtörténet
+- Montázselmélet,  film-tér és film-idő, plánok funkciója , nézőpont megválasztása
+- A forgatókönyv, a sztoribord és az animatik funkciója a gyártási folyamatban
+
+
 ## Tanulási vázlatpontok
 
 ### 1. Mozgóképi formanyelv és műfajismeret, klasszikus filmtörténet

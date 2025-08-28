@@ -1,8 +1,12 @@
 # 02_B_magyaranimacio_80as_utani
 
-## Eredeti tételezés
+## Feladatleírás
 
-**Egy művészeti szakközépiskola animációs szakköre felkéri Önt egy vetítéssel egybekötött előadásra a magyar animációs film '80-as évek utáni történetéről egészen a mai alkotókig, trendekig. Emeljen ki néhány kortárs animációs filmrendezőt és nemzetközileg is elismert munkáikat!**
+**B) Egy művészeti szakközépiskola animációs szakköre felkéri Önt egy vetítéssel egybekötött előadásra a magyar animációs film '80-as évek utáni történetéről egészen a mai alkotókig, trendekig. Emeljen ki néhány kortárs animációs filmrendezőt és nemzetközileg is elismert munkáikat!**
+
+- A magyar animáció története a 80-as évektől napjainkig
+- Filmstúdiók és rendezők, nemzetközi elismerések
+- A legújabb generáció munkái
 
 ## Tanulási vázlatpontok
 
@@ -51,98 +55,76 @@
 ### 3. A legújabb generáció munkái
 
 #### Kortárs rendezők és alkotók
-- **Kovásznai György**: kísérleti animáció
-- **Macskássy Kati**: karaktertervezés
-- **Szoboszlay Péter**: rajzolt animáció
-- **Cakó Ferenc**: "Ab Ovo" kísérleti film
-- **Rófusz Ferenc**: Oscar-díjas alkotó
-- **Orosz István**: kísérleti technikák
-- **Varsányi Ferenc**: digitális animáció
+- **Kovásznai György**: kísérleti animáció, absztrakt megközelítések
+- **Macskássy Kati**: **Magyar népmesék sorozat** (1977-) folytatója, hagyományos stílusok
+- **Szoboszlay Péter**: rajzolt animáció, karakterfejlesztés
+- **Cakó Ferenc**: **Ab Ovo** (1998) alkotója, kísérleti technikák úttörője
+- **Rófusz Ferenc**: **A légy** (1981) Oscar-díjas alkotó, nemzetközi elismerés
+- **Orosz István**: kísérleti animáció, innovatív megoldások
+- **Varsányi Ferenc**: karaktertervezés, vizuális fejlesztés
+
+### 3. A legújabb generáció munkái és trendek
 
 #### Jelentős alkotások (1980-2000)
-- **Hófehér** (1983): Nepp József
-- **Szaffi** (1984): Dargay Attila
-- **Macskafogó** (1986): Ternovszky Béla
-- **Ab Ovo** (1987): Cakó Ferenc
-- **Allegro vivace**: Reisenbüchler Sándor
+- **Hófehér** (1983): Nepp József alkotása, hagyományos rajzolt animáció
+- **Szaffi** (1984): Dargay Attila rendezésében, magyar népmesék adaptációja
+- **Macskafogó** (1986): Ternovszky Béla rendezésében, világsikerű nagyjátékfilm
+- **Ab Ovo** (1998): Cakó Ferenc kísérleti alkotása, absztrakt megközelítés
+- **Allegro vivace**: Reisenbüchler Sándor alkotása, zenei animáció
 
-#### 2000-es évek utáni alkotások
-- **Nyócker!** (2004): Gauder Áron
-- **Maestro** (2005): M. Tóth Géza
-- **Symphony No.42** (2013): Bucsi Réka
-- **Nyuszi és őz** (2013): Vácz Péter
-- **Dűne** (2020): Ulrich Gábor
+#### Kortárs alkotások (2000-2020)
+- **Nyócker!** (2004): Gauder Áron rendezésében, kortárs stílus, fiatalos megközelítés
+- **Maestro** (2005): M Tóth Géza alkotása, kísérleti technikák
+- **Symphony No.42** (2013): Bucsi Réka Oscar-díjas rövidfilmje, nemzetközi elismerés
+- **Nyuszi és őz** (2013): Vácz Péter alkotása, kortárs stílus
+- **Dűne** (2020): Ulrich Gábor alkotása, legújabb generáció képviselője
 
-### 4. Technikai fejlődés és trendek
+### 4. Technikai fejlődés és új trendek
+- **Digitális animáció**: számítógépes technikák elterjedése, 3D modellezés
+- **Kevert technikák**: hagyományos és digitális megoldások kombinálása
+- **Kísérleti megközelítések**: absztrakt, nem narratív alkotások
+- **Interaktív animáció**: új média, digitális platformok
+- **Generatív animáció**: algoritmus alapú alkotások
 
-#### Digitális forradalom
-- **3D animáció**: számítógépes modellezés
-- **Motion capture**: valós mozgás rögzítése
-- **Renderelés**: fényeffektek és textúrák
-- **Compositing**: különböző elemek összeillesztése
+### 5. Nemzetközi elismerések és hatások
+- **Oscar-díjak**: Rófusz Ferenc és Bucsi Réka nemzetközi sikerei
+- **Fesztiválok**: Annecy, Cannes, Berlin nemzetközi fesztiválokon való részvétel
+- **Export**: magyar animációk nemzetközi piacra kerülése
+- **Kollaborációk**: külföldi stúdiókkal való együttműködések
 
-#### Új médiumok
-- **Virtuális valóság**: VR headsetek
-- **Augmented reality**: kiterjesztett valóság
-- **360 fokos videó**: körkörös nézet
-- **Interaktív animáció**: felhasználói befolyásolás
+### 6. Oktatás és új generációk
+- **MOME Anim**: Magyar Képzőművészeti Egyetem animációs szakja
+- **METU Animáció**: egyetemi animációs központok
+- **Workshopok**: nemzetközi animációs workshopok részvétel
+- **Mentorprogramok**: tapasztalt alkotók támogatása a fiataloknak
 
-#### Kísérleti technikák
-- **Stop-motion**: bábanimáció modern formái
-- **Kevert technikák**: digitális és analóg kombinálása
-- **Generatív animáció**: algoritmusok által létrehozott
-- **Procedurális animáció**: szabályok alapján
+### 7. Jövőbeli kilátások és trendek
+- **AI és gépi tanulás**: mesterséges intelligencia alkalmazása animációban
+- **VR/AR**: virtuális és kiterjesztett valóság animációs lehetőségei
+- **Interaktív narratívák**: a néző bevonása a történetbe
+- **Fenntarthatóság**: környezetbarát animációs technikák
+- **Globális együttműködés**: nemzetközi animációs projektek
 
-### 5. Nemzetközi kontextus és hatások
-
-#### Európai uniós integráció
-- **Eurimages**: koprodukciós támogatások
-- **Creative Europe**: kulturális programok
-- **Európai filmakadémia**: nemzetközi hálózatok
-- **Koprodukciók**: több ország együttműködése
-
-#### Globális trendek
-- **Streaming szolgáltatások**: új megjelenítési formák
-- **Közösségi média**: TikTok, Instagram
-- **Gamifikáció**: játékok és animáció határán
-- **Transzmedialitás**: több platformra kiterjedő történetek
-
-### 6. Oktatás és következő generáció
-
-#### Művészeti egyetemek
-- **MOME**: Moholy-Nagy Művészeti Egyetem
-- **Színház- és Filmművészeti Egyetem**: animációs szak
-- **Kecskeméti Animációs Filmfesztivál**: nemzetközi találkozó
-- **Workshopok és masterclassok**: tapasztalt alkotók tanítása
-
-#### Fiatal tehetségek
-- **Diákfilmek**: egyetemi alkotások
-- **Független alkotók**: saját stúdiók
-- **Kísérletezők**: új technikák kipróbálása
-- **Nemzetközi karrier**: külföldi stúdiókban dolgozók
-
-### 7. Jövőbeli trendek és kihívások
-
-#### Technológiai fejlődés
-- **Mesterséges intelligencia**: AI-alapú animáció
-- **Kvantumszámítógépek**: új renderelési lehetőségek
-- **5G hálózatok**: gyorsabb adatátvitel
-- **Cloud computing**: távoli renderelés
-
-#### Tartalmi kihívások
-- **Globális verseny**: nemzetközi piac
-- **Közönség változásai**: rövidebb figyelmi idő
-- **Kulturális diverzitás**: többféle nézőpont
-- **Fenntarthatóság**: környezetbarát gyártás
+### 8. Kiemelendő kortárs alkotók és indoklás
+- **Bucsi Réka**: **Symphony No.42** Oscar-díjas alkotó, nemzetközi elismerés, kortárs stílus
+- **Gauder Áron**: **Nyócker!** rendezője, fiatalos megközelítés, kortárs témák
+- **Cakó Ferenc**: **Ab Ovo** alkotója, kísérleti technikák úttörője, absztrakt megközelítések
+- **Ulrich Gábor**: **Dűne** (2020) alkotója, legújabb generáció képviselője, modern technikák
+- **Vácz Péter**: **Nyuszi és őz** alkotója, kortárs stílus, fiatalos megközelítés
 
 ## Kulcsszavak és fogalmak
-- **Kecskemétfilm**: 1971-től működő stúdió
-- **MOME Anim**: egyetemi animációs program
-- **Oscar-díj**: nemzetközi elismerés
-- **Európai uniós támogatások**: filmgyártási pályázatok
-- **Digitális animáció**: számítógépes technikák
-- **Virtuális valóság**: VR technológia
-- **Streaming platformok**: online megjelenítés
-- **Koprodukció**: több ország együttműködése
-- **Motion capture**: mozgás rögzítése
-- **Generatív animáció**: algoritmusok által létrehozott
+- **MOME Anim**: Magyar Képzőművészeti Egyetem animációs szakja, kísérleti alkotások központja
+- **Kecskemétfilm**: regionális animációs stúdió, hagyományos technikák megőrzője
+- **Umbrella**: független animációs stúdió, kortárs megközelítések
+- **Cinemon**: digitális animáció, 3D technikák specialista
+- **Varga Stúdió**: reklámfilmek, alkalmazott animáció gyártó
+- **Kedd**: független alkotók csoportja, alternatív megközelítések
+- **Kgb stúdió**: avantgárd irányzatok, kísérleti stílusok
+- **METU Animáció**: egyetemi animációs központ, oktatási célú alkotások
+- **Ab Ovo**: Cakó Ferenc kísérleti alkotása, absztrakt megközelítés
+- **Symphony No.42**: Bucsi Réka Oscar-díjas rövidfilmje, nemzetközi elismerés
+- **Nyócker!**: Gauder Áron kortárs alkotása, fiatalos stílus
+- **Digitális animáció**: számítógépes technikák, 3D modellezés, modern megoldások
+- **Kísérleti animáció**: absztrakt, nem narratív alkotások, innovatív megközelítések
+- **Interaktív animáció**: új média, digitális platformok, néző bevonása
+- **Generatív animáció**: algoritmus alapú alkotások, mesterséges intelligencia

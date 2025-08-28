@@ -4,6 +4,10 @@
 
 **Egy filmtervéről konzultál egy producerrel, aki változtatásokat javasol a forgatókönyvben. Ön nem ért vele egyet minden szempontból, de elismeri, hogy a film dramaturgiai szerkezeténél igyekezett nem szokványos megoldásokat alkalmazni. Ismertesse azokat a főbb forgatókönyvírási megoldásokat, amik a producer tapasztalatai szerint jobban garantálnák a film sikerét!**
 
+- Mozgóképi formanyelv és műfajismeret, dramaturgia
+- A filmterv-fejlesztés folyamata, a forgatókönyv szerkezete, a forgatókönyvírás alapjai
+- Fordulópontok a történetben, dramaturgiai megoldások
+
 ## Tanulási vázlatpontok
 
 ### 1. Mozgóképi formanyelv és műfajismeret, dramaturgia
