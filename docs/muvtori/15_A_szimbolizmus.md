@@ -1,184 +1,212 @@
 # 15A - A szimbolizmus festészeti irányzata és a szecesszió
 
-Mutassa  be a szimbolizmus  festészeti irányzatát és a szecesszió  építészetét, művészetét Európában és Magyarországon!
+Mutassa be a szimbolizmus festészeti irányzatát és a szecesszió építészetét, művészetét Európában és Magyarországon!
 
-- A szimbolizmus jellemzői , törekvései
-- A	szecesszió	építészetének	újításai ,	stílusjegyei;	stílusteremtő	építészek Európában és Magyarországon
-- A szecessziós grafika, festészet és iparművészet stílusjegyei ésjel es képviselői
+- A szimbolizmus jellemzői, törekvései
+- A szecesszió építészetének újításai, stílusjegyei; stílusteremtő építészek Európában és Magyarországon
+- A szecessziós grafika, festészet és iparművészet stílusjegyei és képviselői
 
 ## 1. A szimbolizmus festészeti irányzata
 
-### 1.1 Történelmi háttér
+### 1.1 Történelmi háttér és jellemzők
 - **Időszak**: XIX. század második fele (1850-1900)
-- **Gauguin és csoportjának kiállítása nyomán** → kiindulópont
-- **A valóság-hűség helyett** → eszmei tartalmak
-- **Szubjektív, érzéki ábrázolás** → egyéni látásmód
-- **Dekorativitás** → díszítő jelleg
+- **Kiindulópont**: Gauguin és csoportjának kiállítása nyomán
+- **Alapvető elv**: A valóság-hűség helyett eszmei tartalmak kifejezése
+- **Művészeti megközelítés**: Szubjektív, érzéki ábrázolás egyéni látásmóddal
+- **Stílusjegy**: Dekorativitás és díszítő jelleg
 
-### 1.2 Művészeti jellemzők
-- **Misztikus megközelítés** → titokzatos tartalom
-- **Szimbolikus megközelítés** → jelképi ábrázolás
-- **Dekadens megközelítés** → erkölcsi hanyatlás
-- **Eszmei tartalmak érzékeltetése** → gondolati tartalom
+### 1.2 Művészeti törekvések és jellemzők
+- **Misztikus megközelítés**: Titokzatos, rejtélyes tartalmak ábrázolása
+- **Szimbolikus megközelítés**: Jelképi, allegorikus ábrázolásmód
+- **Dekadens megközelítés**: Erkölcsi hanyatlás és fin de siècle hangulat
+- **Eszmei tartalmak**: Gondolati, filozófiai tartalom érzékeltetése
+- **Szubjektivitás**: A művész belső világának kifejezése
+- **Ornamentika**: Dekoratív elemek és díszítő motívumok
 
-### 1.3 Híres szimbolista festők
-- **Gustave Moreau** → Jelenés
-- **Csontváry Kosztka Tivadar** → Magányos cédrus
+### 1.3 Híres szimbolista festők és művek
+- **Gustave Moreau** (1826-1898): "Jelenés" - a szimbolizmus egyik alapműve
+- **Odilon Redon** (1840-1916): "Ciklusok", "Fekete litográfiák"
+- **Arnold Böcklin** (1827-1901): "A halottak szigete"
+- **Ferdinand Hodler** (1853-1918): "Az éjszaka"
+- **Csontváry Kosztka Tivadar** (1853-1919): "Magányos cédrus" - a magyar szimbolizmus kiemelkedő műve
 
-## 2. A szecesszió (Art Nouveau)
+## 2. A szecesszió (Art Nouveau) építészete
 
 ### 2.1 Történelmi háttér és elterjedés
 - **Időszak**: XIX. század vége - XX. század első harmada (1890-1930)
-- **Összművészeti irányzat** → minden művészeti ágban megjelenik
-- **Secession, Jugendstil, Art Nouveau** → különböző nevei
-- **A historizmus követő** → új irányzat
-- **Romantikus, szabadságot hirdető kifejezésforma** → függetlenség
+- **Jellemző**: Összművészeti irányzat minden művészeti ágban
+- **Különböző nevei**: Secession (Ausztria), Jugendstil (Németország), Art Nouveau (Franciaország), Modernisme (Katalónia)
+- **Történelmi helye**: A historizmus és eklektika követő új irányzat
+- **Alapelv**: Romantikus, szabadságot hirdető kifejezésforma
 
 ### 2.2 Előfutárok és hatások
-- **William Morris** → Arts and Crafts mozgalom
-- **John Ruskin** → művészeti elméletek
-- **Áramló formák** → görbült vonalak
-- **Stilizált növényvilág** → természeti motívumok
-- **Japán fametszetek hatása** → keleti hatások
-- **Világkiállítások** → nemzetközi megjelenés
-- **Városfejlődés** → urbanizáció
+- **William Morris**: Arts and Crafts mozgalom alapítója
+- **John Ruskin**: Művészeti elméletek és kritikák
+- **Áramló formák**: Görbült, organikus vonalak
+- **Stilizált növényvilág**: Természeti motívumok geometriai stilizálással
+- **Japán fametszetek hatása**: Keleti művészeti hatások
+- **Világkiállítások**: Nemzetközi megjelenés és elterjedés
+- **Városfejlődés**: Urbanizáció és modern városépítészet
 
-## 3. A szecesszió építészete
+### 2.3 Építészeti újítások és stílusjegyek
+- **Az eklektika építészeti kötöttségei helyett**: Független, egyedi stílus
+- **Funkcionalitás**: A funkcióhoz közelebb álló egyedi középületek
+- **Magánházak**: Egyedi lakóhelyek építése
+- **Áramló formák**: Görbült, organikus vonalak
+- **Stilizált növényvilág**: Természeti motívumok geometriai stilizálással
+- **Új építőanyagok**: Vas, üveg, kerámia innovatív használata
+- **Összhang**: Belső és külső tér egységes megoldása
 
-### 3.1 Építészeti jellemzők
-- **Az eklektika építészeti kötöttségei helyett** → függetlenség
-- **A funkcióhoz közelebb álló egyedi középületek** → praktikus megoldások
-- **Magánházak építése** → egyedi lakóhelyek
-- **Áramló formák** → görbült vonalak
-- **Stilizált növényvilág** → természeti motívumok
+### 2.4 Stílusteremtő építészek Európában
 
-### 3.2 Híres szecessziós építészek és művek
+#### 2.4.1 Belgium
+- **Victor Horta** (1861-1947): **Tassel palota** - a szecesszió építészet egyik első példája
 
-#### 3.2.1 Európai építészek
-- **Victor Horta** → Tassel palota
-- **Antoni Gaudi** → Güell kápolna és park, Sagrada Família templom, Battló-ház, Milá-ház (Barcelona)
-- **Joseph-Maria Olbrich** → Sezession pavilon (Bécs)
-- **Otto Wagner** → Majolika ház, Takarékpénztár (Bécs)
+#### 2.4.2 Spanyolország
+- **Antoni Gaudí** (1852-1926): 
+  - **Güell kápolna és park**
+  - **Sagrada Família templom**
+  - **Casa Batlló**
+  - **Casa Milà (La Pedrera)**
+  - **Park Güell**
 
-#### 3.2.2 Magyar építészek
-- **Lechner Ödön** → Földtani Intézet, Postatakarékpénztár, Iparművészeti Múzeum (Budapest)
-- **Kós Károly** → Állatkert (Budapest)
+#### 2.4.3 Ausztria
+- **Joseph Maria Olbrich** (1867-1908): **Sezession pavilon** - Bécs
+- **Otto Wagner** (1841-1918): 
+  - **Majolika ház** - Bécs
+  - **Takarékpénztár** - Bécs
 
-## 4. A szecesszió iparművészete
+#### 2.4.4 Skócia
+- **Charles Rennie Mackintosh** (1868-1928): **Művészeti Iskola** - Glasgow
 
-### 4.1 Iparművészeti alkotások
-- **A lépcsőkorláttól a szőnyegekig** → minden terület
-- **Plakát** → reklám művészet
-- **Gobelin** → textilművészet
-- **Ékszer** → ékszerkészítés
-- **Használati tárgyak** → mindennapi tárgyak
+### 2.5 Stílusteremtő építészek Magyarországon
 
-### 4.2 Híres iparművészek
-- **Henry Van de Velde** → bútorok, dísztárgyak
-- **Émile Gallé** → kézi gyártású üvegek, bútorok
-- **René Lalique** → ékszerek
-- **Charles Rennie Mackintosh** → Művészeti Iskola, bútorok (Glasgow)
+#### 2.5.1 Lechner Ödön (1845-1914)
+- **Fő művek**:
+  - **Földtani Intézet** (1898-1899)
+  - **Postatakarékpénztár** (1899-1902)
+  - **Iparművészeti Múzeum** (1893-1896)
+- **Stílusjegyek**: Magyar népművészeti motívumok, színes kerámia díszítés
 
-### 4.3 Stílusjegyek
-- **Kézművesség** → kézzel készített tárgyak
-- **Esztétikum és funkcionalitás** → szépség és hasznosság
-- **Természeti motívumok** → növényi, állati formák
-- **Görbült vonalak** → áramló formák
+#### 2.5.2 Kós Károly (1883-1977)
+- **Fő művek**:
+  - **Állatkert** - Budapest (1909-1912)
 
-## 5. A szecessziós festészet és grafika
+## 3. A szecessziós grafika, festészet és iparművészet
 
-### 5.1 Stílusjegyek
-- **Szimbolikus, bizarr témák** → allegorikus tartalom
-- **Ornamentális stilizáltság** → díszítő jelleg
-- **Lokálszínek** → helyi színek
-- **Kontúrozás** → erős vonalak
-- **Perspektíva nélküli terek** → síkfelületi megjelenés
+### 3.1 Szecessziós grafika stílusjegyei
+- **Ornamentális stilizáltság**: Díszítő jelleg és dekorativitás
+- **Áramló vonalak**: Görbült, organikus formák
+- **Stilizált növényvilág**: Természeti motívumok geometriai átdolgozásban
+- **Színes litográfia**: Különböző színek használata
+- **Plakátművészet**: Reklám és művészeti érték egysége
 
-### 5.2 Művészeti jellemzők
-- **Dekorativitás** → díszítő jelleg
-- **Megnyújtott figurák** → stilizált alakok
-- **Allegorikus ábrázolásmód** → szimbolikus tartalom
-- **Táblaképek és hatalmas festmények** → különböző méretek
-- **Litográfia** → nyomtatott grafika
+### 3.2 Szecessziós festészet stílusjegyei
+- **Szimbolikus, bizarr témák**: Allegorikus és misztikus tartalmak
+- **Ornamentális stilizáltság**: Díszítő jelleg és dekorativitás
+- **Lokálszínek**: Tiszták, élénk színek használata
+- **Kontúrozás**: Erős, határozott vonalak
+- **Perspektíva nélküli terek**: Síkszerű, dekoratív megjelenés
+- **Dekorativitás**: Díszítő jelleg és ornamentika
+- **Megnyújtott figurák**: Stilizált, ornamentális alakok
+- **Allegorikus ábrázolásmód**: Szimbolikus tartalom kifejezése
+- **Táblaképek és hatalmas festmények**: Különböző méretek
+- **Litográfia**: Nyomtatott grafika
 
-### 5.3 Híres szecessziós festők és művek
-- **Henri de Toulouse-Lautrec** → plakátok
-- **Alphonse Mucha** → plakátok
-- **Egon Schiele** → Várandós nő
-- **Gustav Klimt** → Az asszony három életkora
-- **Rippl-Rónai József** → Nő kalitkával
-- **Vasary János** → Aranykor
+### 3.3 Szecessziós iparművészet stílusjegyei
+- **Iparművészeti alkotások**: A lépcsőkorláttól a szőnyegekig minden terület
+- **Kézművesség**: Kézzel készített, egyedi tárgyak
+- **Esztétikum és funkcionalitás**: Szépség és hasznosság egysége
+- **Természeti motívumok**: Növényi, állati formák stilizálása
+- **Görbült vonalak**: Áramló, organikus formák
+- **Új anyagok**: Üveg, fém, kerámia innovatív használata
 
-## 6. A szecesszió különböző országokban
+### 3.4 Híres szecessziós grafikusok és festők
 
-### 6.1 Franciaország
-- **Art Nouveau** → francia szecesszió
-- **Párizs** → fő központ
-- **Nancy** → regionális központ
-- **Émile Gallé** → üvegművesség
+#### 3.4.1 Európai művészek
+- **Henri de Toulouse-Lautrec** (1864-1901): **Plakátok** - Moulin Rouge és kabaré reklámok
+- **Alphonse Mucha** (1860-1939): **Plakátok** - Sarah Bernhardt és reklámplakátok
+- **Egon Schiele** (1890-1918): **"Várandós nő"** - expresszív rajzok
+- **Gustav Klimt** (1862-1918): **"Az asszony három életkora"** - allegorikus kompozíció
 
-### 6.2 Németország és Ausztria
-- **Jugendstil** → német szecesszió
-- **Bécs** → fő központ
-- **München** → regionális központ
-- **Sezession** → bécsi mozgalom
+#### 3.4.2 Magyar művészek
+- **Rippl-Rónai József** (1861-1927): **"Nő kalitkával"** - szecessziós stílusjegyekkel
+- **Vasary János** (1867-1939): **"Aranykor"** - allegorikus ábrázolás
 
-### 6.3 Spanyolország
-- **Modernisme** → katalán szecesszió
-- **Barcelona** → fő központ
-- **Antoni Gaudi** → fő képviselő
-- **Sagrada Família** → fő mű
+### 3.5 Híres szecessziós iparművészek
 
-### 6.4 Magyarország
-- **Budapest** → fő központ
-- **Lechner Ödön** → fő képviselő
-- **Kós Károly** → regionális képviselő
-- **Postatakarékpénztár** → fő mű
+#### 3.5.1 Európai iparművészek
+- **Henry Van de Velde** (1863-1957): **Bútorok, dísztárgyak** - funkcionalitás és esztétikum
+- **Émile Gallé** (1846-1904): **Kézi gyártású üvegek, bútorok** - növényi motívumokkal
+- **René Lalique** (1860-1945): **Ékszerek** - üvegművesség és ékszerkészítés
+- **Charles Rennie Mackintosh**: **Bútorok** - Glasgow, geometriai formák
 
-## 7. A szecesszió technikai jellemzői
+## 4. A szecesszió különböző országokban
 
-### 7.1 Építészeti technikák
-- **Vas szerkezetek** → modern építőanyagok
-- **Üveg** → nagy üvegtér
-- **Kerámia** → díszítő elemek
-- **Fém** → dekoratív elemek
+### 4.1 Franciaország - Art Nouveau
+- **Fő központok**: Párizs, Nancy
+- **Jellemzők**: Elegáns, finom vonalak, növényi motívumok
+- **Képviselők**: Guimard, Gallé, Lalique
 
-### 7.2 Iparművészeti technikák
-- **Üvegművesség** → kézi gyártás
-- **Fémipar** → ötvösség
-- **Textilművészet** → szövés, hímzés
-- **Bútorművészet** → fafaragás
+### 4.2 Németország és Ausztria - Jugendstil/Sezession
+- **Fő központok**: Bécs, München, Darmstadt
+- **Jellemzők**: Geometriai formák, erős vonalak
+- **Képviselők**: Wagner, Olbrich, Klimt
 
-### 7.3 Festészeti technikák
-- **Olajfestészet** → hagyományos technika
-- **Vízfestészet** → könnyed technika
-- **Grafika** → nyomtatott művészet
-- **Plakát** → reklám művészet
+### 4.3 Spanyolország - Modernisme
+- **Fő központ**: Barcelona
+- **Jellemzők**: Fantáziadús, organikus formák
+- **Képviselő**: Gaudí
 
-## 8. A szecesszió hatása és öröksége
+### 4.4 Magyarország
+- **Fő központ**: Budapest
+- **Jellemzők**: Magyar népművészeti motívumok, színes kerámia
+- **Képviselők**: Lechner Ödön, Kós Károly
 
-### 8.1 Művészeti hatás
-- **Modernizmus** → XX. századi irányzatok
-- **Art Deco** → a szecesszió követő stílus
-- **Funkcionalizmus** → praktikus megoldások
-- **Expresszionizmus** → érzelmek kifejezése
+## 5. A szecesszió technikai jellemzői
 
-### 8.2 Kulturális örökség
-- **Összművészeti megközelítés** → minden művészeti ág
-- **Kézművesség** → kézzel készített tárgyak
-- **Természeti motívumok** → növényi, állati formák
-- **Urbanizáció** → városfejlődés
+### 5.1 Építészeti technikák
+- **Vas szerkezetek**: Modern építőanyagok használata
+- **Üveg**: Nagy üvegtér, természetes világítás
+- **Kerámia**: Díszítő elemek, színes burkolatok
+- **Fém**: Dekoratív elemek, rácsok, korlátok
 
-### 8.3 Modern hatás
-- **Neoszecessziós stílus** → XX-XXI. századi újjáéledés
-- **Történelmi rekonstrukció** → szecessziós épületek
-- **Művészettörténet** → tudományos kutatás
-- **Turizmus** → szecessziós emlékek látogatása
-- **Örökségvédelem** → műemlékek védelme
+### 5.2 Iparművészeti technikák
+- **Üvegművesség**: Kézi gyártás, üvegfúvás
+- **Fémipar**: Ötvösség, repoussé technika
+- **Textilművészet**: Szövés, hímzés, batik
+- **Bútorművészet**: Fafaragás, intarzia
+
+### 5.3 Festészeti technikák
+- **Olajfestészet**: Hagyományos technika
+- **Vízfestészet**: Könnyed, transzparens technika
+- **Grafika**: Litográfia, fametszet
+- **Plakát**: Reklám művészet, színes nyomtatás
+
+## 6. A szecesszió hatása és öröksége
+
+### 6.1 Művészeti hatás
+- **Modernizmus**: XX. századi irányzatok előfutára
+- **Art Deco**: A szecesszió követő stílus (1920-1940)
+- **Funkcionalizmus**: Praktikus megoldások
+- **Expresszionizmus**: Érzelmek kifejezése
+
+### 6.2 Kulturális örökség
+- **Összművészeti megközelítés**: Minden művészeti ág egységes kezelése
+- **Kézművesség**: Kézzel készített tárgyak értékelése
+- **Természeti motívumok**: Növényi, állati formák művészeti felhasználása
+- **Urbanizáció**: Városfejlődés és építészeti megoldások
+
+### 6.3 Modern hatás
+- **Neoszecessziós stílus**: XX-XXI. századi újjáéledés
+- **Történelmi rekonstrukció**: Szecessziós épületek helyreállítása
+- **Művészettörténet**: Tudományos kutatás és dokumentáció
+- **Turizmus**: Szecessziós emlékek látogatása
+- **Örökségvédelem**: Műemlékek védelme és megőrzése
 
 ---
 
-![Szimbolizmus](../images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)
+![Szimbolizmus és Szecesszió](../images/16_Szimbolizmus%20Szecesszió%20Csontváry_KÉP.png)
 
 ### **Felső sor (balról jobbra)**
 
