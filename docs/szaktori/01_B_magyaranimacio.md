@@ -29,51 +29,29 @@
 
 #### Korai alkotók (1920-1950-es évek)
 - **Kató-Kiszly István**: Coloriton stúdió alapítója, reklámfilmek készítője
-  - **Leghíresebb művei**: "A magyar posta" reklámfilmek, "Tungsram" világítási reklámok
 - **Vértes Marcell**: reklámfilmek, korai magyar animáció úttörője
-  - **Leghíresebb művei**: "Magyar Állami Vasutak" reklámfilmek, "Tisza" szappan reklámok
 - **Kassovitz Félix**: Coloriton stúdió, reklámfilmek
-  - **Leghíresebb művei**: "Magyar Tej" reklámfilmek, "Borsodi" sör reklámok
 - **Macskássy Gyula**: Macskássy-Szénásy stúdió, **Gusztáv sorozat** (1964-) világsikerű alkotója, reklámfilmek mestere
-  - **Leghíresebb művei**: **Gusztáv sorozat** (1964-), "A kiskakas gyémánt félkrajcárja" (1974), "Vuk" (1981)
 
 #### Pannónia Filmstúdió alkotói (1957-1980)
 - **Halász János**: kísérleti animáció, absztrakt megközelítések
-  - **Leghíresebb művei**: "Párbaj" (1960), "A légy" (1980), "Habfürdő" (1979)
 - **Pál György**: karaktertervezés, vizuális identitás kialakítása
-  - **Leghíresebb művei**: "Gusztáv" karaktertervei, "János vitéz" vizuális koncepciója
 - **Valker István**: rajzolt animáció, hagyományos technikák
-  - **Leghíresebb művei**: "A kiskakas gyémánt félkrajcárja" (1974), "Vuk" (1981)
 - **Gémes József**: **bábanimáció** úttörője, 3D objektumok animálása
-  - **Leghíresebb művei**: "A kiskakas gyémánt félkrajcárja" (1974), "Vuk" (1981), "Macskafogó" (1986)
 - **Richly Zsolt**: kísérleti technikák, innovatív megoldások
-  - **Leghíresebb művei**: "Habfürdő" (1979), "A légy" (1980)
 - **Nepp József**: rajzolt animáció, karakterfejlesztés
-  - **Leghíresebb művei**: "Gusztáv" epizódok, "János vitéz" karakterfejlesztése
 - **Oargay Attila**: karaktertervezés, vizuális stílus
-  - **Leghíresebb művei**: "Gusztáv" karaktertervei, "János vitéz" vizuális stílusa
 - **Kovásznai Gábor**: kísérleti animáció, avantgárd megközelítések
-  - **Leghíresebb művei**: "Párbaj" (1960), "Habfürdő" (1979), "A légy" (1980)
 - **Szoboszlay Péter**: rajzolt animáció, hagyományos technikák
-  - **Leghíresebb művei**: "Gusztáv" epizódok, "János vitéz" rajzolt jelenetei
 - **Reisenbüchler Sándor**: kísérleti technikák, innováció
-  - **Leghíresebb művei**: "Habfürdő" (1979), "A légy" (1980)
 - **Jankovics Marcell**: **János vitéz** (1973) rendezője, karaktertervezés és rendezés mestere
-  - **Leghíresebb művei**: **János vitéz** (1973), "Fehérlófia" (1981), "Szaffi" (1984)
 - **Cakó Ferenc**: kísérleti animáció, absztrakt megközelítések
-  - **Leghíresebb művei**: "Habfürdő" (1979), "A légy" (1980)
 - **Rófusz Ferenc**: **Sisyphus** (1974) Oscar-díjas alkotó, kísérleti technikák úttörője
-  - **Leghíresebb művei**: **Sisyphus** (1974) - Oscar-díjas, "A légy" (1980)
 - **Hernádi Tibor**: rajzolt animáció, hagyományos megközelítések
-  - **Leghíresebb művei**: "Gusztáv" epizódok, "János vitéz" rajzolt jelenetei
 - **Orosz István**: kísérleti animáció, innovatív stílusok
-  - **Leghíresebb művei**: "Habfürdő" (1979), "A légy" (1980)
 - **Varsányi Ferenc**: karaktertervezés, vizuális fejlesztés
-  - **Leghíresebb művei**: "Gusztáv" karaktertervei, "János vitéz" vizuális fejlesztése
 - **Imre István**: rajzolt animáció, hagyományos technikák
-  - **Leghíresebb művei**: "Gusztáv" epizódok, "János vitéz" rajzolt jelenetei
 - **Foky Ottó**: kísérleti technikák, új megoldások
-  - **Leghíresebb művei**: "Habfürdő" (1979), "A légy" (1980)
 
 ### 4. Jelentős alkotások és sorozatok
 
