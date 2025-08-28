@@ -1,5 +1,12 @@
 # 8A - Az itáliai reneszánsz építészete, szobrászata és festészete
 
+Mutassa  be  az  itáliai  reneszánsz  építészet,  szobrászat,  festészet  stílusjegyeit, jellemzőit, alkotóit és műveit!
+
+- Az olasz reneszánsz művészet kialakulása , korszakai ,jellemzői, vívmányai
+- Az	olasz	reneszánsz	épülettípusai,	a	szobrászat	stílusjegyei	az	egyes korszakokban;
+- A festészet műfajai, technikái ; festők és alkotások
+
+
 ## 1. Az olasz reneszánsz művészet kialakulása és korszakai
 
 ### 1.1 Történelmi háttér

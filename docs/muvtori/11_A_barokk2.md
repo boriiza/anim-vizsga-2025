@@ -1,5 +1,12 @@
 # 11A - Az egyes európai országok barokk és rokokó festészetének különböző stílusjegyei
 
+Mutassa   be   az   egyes   európai   országok   barokk   és   rokokó   festészetének különböző stílusjegyeit és alkotásait!
+
+-  A barokk festészet általános jellemzői , szerepe
+A katolikus  Itália, Spanyolország, Flandria  és a polgári  Hollandia  festészete, mesterei
+-   A magyarországi barokk festészet példái
+
+
 ## 1. A barokk festészet általános jellemzői
 
 ### 1.1 Társadalmi háttér

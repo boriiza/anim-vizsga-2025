@@ -1,5 +1,12 @@
 # 3A - Az antik Róma korszakai, kultúrája, építészete, szobrászata és festészete
 
+Mutassa be az antik Róma korszakait, kultúráját, építészetének, szobrászatának és festészetének jellegzetességeit! Soroljon fel és jellemezzen néhány fennmaradt római építményt és alkotást!
+
+- Az ókori Római Birodalom társadalmi felépítése, a római művészet korszakai és jellemzői
+- Az építészet jellemzői, építmény-típusai, a szobrászat és festészet emlékei
+- Pannónia provincia római kori maradványai
+
+
 ## 1. Az ókori Római Birodalom társadalmi felépítése és korszakai
 
 ### 1.1 Történelmi korszakok (i.e. 753 - 476)

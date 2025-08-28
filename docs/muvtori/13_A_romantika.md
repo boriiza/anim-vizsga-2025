@@ -1,5 +1,10 @@
 # 13A - A romantika szobrászatának és festészetének stílusjegyei, a historizmus és eklektika építészetének jellemzői
 
+Mutassa be a romantika szobrászatának és festészetének stílusjegyeit, a historizmus és eklektika építészetének jellemzőit, alkotásait!
+
+- A romantikus festészet, szobrászat stílusjegyei, irányzatai és mesterei (francia, német, angol és magyar)
+- A historizáló és eklektikus építészet
+
 ## 1. A romantika történelmi háttérja és társadalmi körülményei
 
 ### 1.1 Időszak és események

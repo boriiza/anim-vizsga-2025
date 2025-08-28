@@ -1,5 +1,11 @@
 # 9A - A reneszánsz művészet Itálián kívüli elterjedése és jellemzői
 
+Mutassa  be a reneszánsz  művészet  Itálián kívüli elterjedését  és jellemzőit  a flamand, német, francia területeken és Magyarországon!
+
+- Az északi reneszánsz építészet jellem zői, épülettípu sai
+- A flamand és német festészet, grafika jellem zői, stílusjegyei, híres alkotói
+- A magyar királyi udvar művészete
+
 ## 1. Az északi reneszánsz történelmi háttérja
 
 ### 1.1 Időszak és körülmények

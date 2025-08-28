@@ -1,5 +1,11 @@
 # 12A - A klasszicista építészet, szobrászat és festészet
 
+Mutassa be a klasszicista építészet, szobrászat  és  festészet  stílusjegyeit, alkotásait, hazai műemlékeinket!
+
+- A klasszicizmus általános jellemzői, társadalmi, filozófiai háttere
+- Az építészet stílusjegyei  (Franciaország, Anglia, Magyarország)
+- A szobrászat és festészet stílusjegyei, mesterei (Franciaország és Magyarország)
+
 ## 1. A klasszicizmus általános jellemzői és történelmi háttérja
 
 ### 1.1 Időszak és elterjedés

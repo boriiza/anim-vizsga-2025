@@ -1,5 +1,10 @@
 # 20A - A kortárs művészet és a 21. század művészete
 
+Mutassa be a 20. század második felében  megjelenő újabb képzőművészeti műfajokat, irányzatokat!
+
+- A korszak új művészeti megnyilvánulásai Európában és az USA-ban
+- A  konceptuális művészet  törekvései, fluxus, performance, akcióművészet, az installáció és médiaművészet alkotásai, művészei
+
 ## 1. A kortárs művészet jellemzői
 
 ### 1.1 Általános jellemzők

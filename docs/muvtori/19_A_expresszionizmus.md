@@ -1,5 +1,10 @@
 # 19A - A 20. századi képzőművészet főbb irányzatai
 
+Mutassa be a 20. század második felének avantgárd és a magyar neoavantgárd művészet festői irányzatait, híres alkotásait, művészeit!
+
+- Művészeti válaszok a II. világháború utáni társadalmi jelenségekre
+- Az absztrakt expresszionizmus, pop art, op art, hiperrealista festészet külföldi és magyar képviselői
+
 ## 1. Az absztrakt expresszionizmus
 
 ### 1.1 Történelmi háttér és jellemzők

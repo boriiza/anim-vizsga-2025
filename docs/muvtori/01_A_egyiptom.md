@@ -1,5 +1,11 @@
 # 1A - Az ókori Egyiptom társadalma, hiedelemvilága és művészete
 
+Mutassa be  az  ókori  Egyiptom  társadalmi  felépítését,  hiedelemvilágát! Ismertesse az ókori egyiptomi művészet korszakait, az építészet, szobrászat és festészet ránk maradt emlékeinek jellegzetességeit!
+
+- Az ókori egyiptomi művészet korszakai , földrajzi, társadalmi környezete
+- A sír- és templomépítészet típusai, felépítése, jellemz ői
+- A szobrászat, festészet és tárgykultúra jellemzői és stílusjegyei
+
 ## 1. Társadalmi felépítés
 - **Fáraó** – isteni hatalommal bíró uralkodó, korlátlan hatalom
 - **Papok** – vallási vezetők, rítusok, írás, tudomány (csillagászat, matematika, geometria)

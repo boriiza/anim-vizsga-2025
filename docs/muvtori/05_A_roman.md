@@ -1,5 +1,11 @@
 # 5A - A román stílus építészete és művészete
 
+Mutassa be a románkori építészet, szobrászat és kézművesség stílusjegyeit! Jellemezze  a különböző  műfajokhoz  kapcsolódó  alkotásokat,  európai  és hazai műemlékeinket!
+
+-   A román kor társadalma, hitvilága, építészete
+-	A koraközépkori szobrászat, kódexfestészet  és kézművesség jellemzői
+
+
 ## 1. Történelmi háttér és társadalmi körülmények
 - **Időszak**: i.sz. X-XIII. század (1000-1300)
 - **Térség**: Nyugat-Európa, Közép-Európa, Észak-Európa

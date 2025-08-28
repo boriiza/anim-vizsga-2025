@@ -1,5 +1,11 @@
 # 18A - A 20. századi építészet és iparművészet legfontosabb irányzatai
 
+Mutassa be a 20. századi építészet és iparművészet legfontosabb irányzatait! Sorolja fel és jellemezze a két terület meghatározó alkotásait, tervezőit!
+
+- A Bauhaus története és képviselői
+- Design   áramlatok   a   20.   században   (art   deco,   funkcionalizmus,	organikus művészet, minimalizmus)
+- A modern és posztmodern építészet stílusteremtő személyiségei
+
 ## 1. A Bauhaus
 
 ### 1.1 Történelmi háttér és alapelvek

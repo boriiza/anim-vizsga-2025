@@ -1,5 +1,11 @@
 # 14A - Az impresszionista és posztimpresszionista festészet
 
+Mutassa be az impresszionista és posztimpresszionista festészet stílusjegyeit, alkotóit és műveit! Ismertesse a Nagybányai művésztelep tagjainak tevékenységét!
+
+- A 19. századvégi művészet célkitűzései, törekvései, plein air festészete
+- Az impresszionizmus és posztimpresszionizmus  nagymestereinek  művészete
+- A századvégi stílusirányzatok magyar képviselői
+
 ## 1. A 19. századvégi művészet történelmi háttérja
 
 ### 1.1 Időszak és előzmények

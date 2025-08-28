@@ -1,5 +1,11 @@
 # 15A - A szimbolizmus festészeti irányzata és a szecesszió
 
+Mutassa  be a szimbolizmus  festészeti irányzatát és a szecesszió  építészetét, művészetét Európában és Magyarországon!
+
+- A szimbolizmus jellemzői , törekvései
+- A	szecesszió	építészetének	újításai ,	stílusjegyei;	stílusteremtő	építészek Európában és Magyarországon
+- A szecessziós grafika, festészet és iparművészet stílusjegyei ésjel es képviselői
+
 ## 1. A szimbolizmus festészeti irányzata
 
 ### 1.1 Történelmi háttér

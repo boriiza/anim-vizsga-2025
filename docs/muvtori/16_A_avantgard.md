@@ -1,5 +1,12 @@
 # 16A - A 20. század eleji avantgárd művészeti irányzatok
 
+Mutassa be a 20. század elejének avantgárd művészeti irányzatai közül a fauvizmus, expresszionizmus, kubizmus legfőbb törekvéseit és kiemelkedő alkotóit! Ismertesse a Nyolcak csoportjának tevékenységét!
+
+- A 20. század elejének társadalmi környezete, a művészeti irányzatok alapelvei
+- A 20. századi képzőművészet meghatározó alakjai
+- A festészet modern irányzatai, magyarországi megjelenése
+
+
 ## 1. A 20. század elejének társadalmi környezete
 
 ### 1.1 Történelmi események

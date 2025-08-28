@@ -1,5 +1,12 @@
 # 17A - A futurizmus, konstruktivizmus, dadaizmus és szürrealizmus
 
+Mutassa be a 20. század eleji avantgárd  művészeti  irányzatok  közül  a futurizmus, a konstruktivizmus, a dadaizmus és a szürrealizmus törekvéseit és kiemelkedő alkotóit! Beszéljen az absztrakt művészet kialakulásáról!
+
+- A 20. század elejének társadalmi környezete, a művészetek filozófiai háttere
+- A képzőművészet	modem	irányzatai,  megjelenési	formái   és   legismertebb képviselői
+- Az absztrakció különböző megjelenési formái
+
+
 ## 1. A 20. század eleji avantgárd művészeti irányzatok
 
 ### 1.1 Társadalmi környezet

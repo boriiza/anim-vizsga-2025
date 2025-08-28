@@ -1,5 +1,12 @@
 # 4A - Az ókeresztény és bizánci művészet
 
+Mutassa be az ókeresztény és a bizánci művészetet - az építészet és a festészet, valamint a díszítőművészet stílusjegyeit, ismert alkotásait!
+
+- Az ókeresztény és bizánci építészet - a bazilika és a bizánci templom felépítése
+- Az ókeresztény szobrászat stílusjegyei és jelképei
+- A bizánci mozaik, az ikonfestészet és a kézművesség jellemzői
+
+
 ## 1. Történelmi háttér és társadalmi körülmények
 - **Időszak**: i.sz. I-XV. század (1-1453)
 - **Térség**: Római Birodalom, Bizánci Birodalom, Közel-Kelet

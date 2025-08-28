@@ -1,5 +1,11 @@
 # 7A - A gótikus szobrászat, festészet és kézművesség
 
+Mutassa be a gótikus szobrászat, festészet és kézművesség alkotásait!
+
+- A gótikus művészet általános jellemzői,  fejlődése, stílusjegyei
+- A	gótikus	szobrászat,	festészet	az	északi	országokban,	Itáliában	és Magyarországon
+- Az iparművészet kiemelkedő alkotásai - üvegablakok, fémművesség
+
 ## 1. A gótikus művészet általános jellemzői
 
 ### 1.1 Történelmi háttér

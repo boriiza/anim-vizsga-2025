@@ -1,5 +1,12 @@
 # 6A - A gótika építészete
 
+Mutassa be a gótika építészetét! Soroljon fel, és röviden jellemezzen híres katedrálisokat és hazai műemlékeket!
+
+- A katolikus egyház szerepe
+- A gótikus építészeti stílus elterjedése, jellem zői Európában és Magyarországon
+- A templomépítészet: a katedráli sok alaprajza, részei , felépítése
+
+
 ## 1. Történelmi háttér és társadalmi körülmények
 - **Időszak**: i.sz. XII-XV. század (1200-1500)
 - **Társadalmi változások**: feudális rendszer megerősödése, királyi hatalom növekedése

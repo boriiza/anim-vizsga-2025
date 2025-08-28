@@ -1,5 +1,11 @@
 # 10A - A barokk építészet és szobrászat
 
+Mutassa be a barokk építészet és szobrászat stílusjegyeit és példáit Itáliában, a francia királyi udvarban, Ausztriában és Magyarországon!
+
+- A barokk művészet szerepe az ellenreformáció időszakában
+- A barokk építészet és szobrászat stílusjegyei
+- Egyházi és világi barokk épülettípusai, jellemzői
+
 ## 1. A barokk stílus kialakulása és történelmi háttérja
 
 ### 1.1 Időszak és elterjedés
