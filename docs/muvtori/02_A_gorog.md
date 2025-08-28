@@ -7,7 +7,6 @@ Mutassa be az antik görög kor hitvilágát, korszakait és építészetét! El
 - A görög szobrászat jellegzetes vonásai a különböző korszakokban
 - A görög mitológia világa, a görög vázafestészet
 
-
 ## 1. Görög kultúra és társadalom
 - **Poliszok (városállamok)** kiépülése → a kultúra és művészet virágzása  
 - **Athéni demokrácia** (pl. Drakón törvényei, később Szolón reformjai)  
@@ -15,62 +14,100 @@ Mutassa be az antik görög kor hitvilágát, korszakait és építészetét! El
 
 ## 2. Görög hitvilág és mitológia
 - **Politeizmus**, antropomorf istenek (emberi alakban, halhatatlanok)  
-  - **Zeusz** (főisten, villám)  
-  - **Héra** (család, házasság)  
-  - **Hadész** (alvilág)  
-  - **Apollón** (nap, költészet, jóslat)  
-  - **Dionüszosz** (bor, mámor, színház)  
-  - **Aphrodité** (szerelem, szépség)  
-  - **Héphaisztosz** (tűz, kovácsmesterség)  
-- **Olümposz** – az istenek lakhelye  
+  - **Zeusz** (főisten, villám, ég ura)  
+  - **Héra** (család, házasság, Zeusz felesége)  
+  - **Hadész** (alvilág, halottak ura)  
+  - **Apollón** (nap, költészet, jóslat, orvostudomány)  
+  - **Dionüszosz** (bor, mámor, színház, termékenység)  
+  - **Aphrodité** (szerelem, szépség, termékenység)  
+  - **Héphaisztosz** (tűz, kovácsmesterség, Zeusz és Héra fia)  
+- **Olümposz** – az istenek lakhelye, a legmagasabb hegy Görögországban  
 - **Mitológia**: az istenek és hősök történeteinek összessége  
 - **Templomok**: az istenszobrok befogadására épültek, szertartási helyszínek  
 
 ## 3. A görög művészet korszakai
 ### 1. Homéroszi kor (i.e. XI–VIII. sz.)
-- Spárta vezető szerepe, kézművesség, hajózás, kereskedelem  
+- **Spárta** vezető szerepe, kézművesség, hajózás, kereskedelem  
 - Görög írás- és mértékrendszer, pénzhasználat  
-- **Szobrászat**: terrakotta, bronz idolok, geometrikus figurák, frontális beállítás, merev arc- és ruházat  
+- **Szobrászat**: 
+  - **Bálvány szobrok**, terrakotta, bronz idolok
+  - Geometrikus megformálású figurák
+  - **Frontális beállítás**, mereven formált arc-, haj-, ruha
+  - **Kézművesség** fejlődése
 
 ### 2. Archaikus kor (i.e. VII–VI. sz.)
-- Athénban rabszolgatartó társadalom, Perzsa háborúk kezdete  
+- **Adósrabszolgaság** kialakulása
+- **Athén**: a szabadok rabszolgatartó társadalma  
+- **Perzsa háborúk** kezdete
 - **Építészet**: Héra-templom  
 - **Szobrászat**:  
-  - Életnagyságú szobrok, áldozati ajándékok  
-  - **Archaikus mosoly**  
+  - Életnagyságú és kisebb agyag- és kőszobrok
+  - **Áldozati ajándékok**, életszerűbb, de sematikus mintázási mód
+  - **Archaikus mosoly** – a szobrok jellegzetes vonása
   - **Kúrosz** (ruhátlan férfi) és **Koré** (ruhás nőalak) – oszloppótló szobrok  
+  - **Khitont viselő koré**, **borjút tartó kúrosz**
   - Szimmetrikus, zárt körvonal, sematikus mintázás  
 
 ### 3. Klasszikus kor (i.e. V–IV. sz.)
 - **Periklész kora** – Athén fénykora, Peloponnészoszi háború, Nagy Sándor hódításai  
 - **Építészet**:  
-  - Athéni Akropolisz: Propülaia, Parthenón, Niké-templom, Erechtheion  
-  - Delphoi Apollón-templom  
+  - **Athéni Akropolisz**: Propülaia, Parthenón, Niké-templom, Erechtheion  
+  - **Delphoi Apollón-templom**  
 - **Szobrászat**:  
-  - Az ember áll a középpontban (antropomorf szemlélet)  
-  - Anatómiai pontosság, kontraposzt, arányok, harmónia, kánonok  
-  - Pheidiasz: Pallasz Athéné szobra, Panathénaia fríz (izokefália – fejek egy magasságban)  
-  - Mürón: Diszkoszvető  
-  - Polükleitosz: Doryphoros (Lándzsavivő)  
-  - Delphoi kocsihajtó (bronz), Zeusz szobra, Hermész a kis Dionüszosszal  
+  - A szobrok már nem a túlvilági létet szolgálják
+  - Az ember áll a középpontban (**antropomorf szemlélet**)  
+  - **Anatómiai pontosság**, **kontraposzt**, **arányok**, **harmónia**, **kánonok**
+  - **Mérték-harmónia-egyszerűség** elve
+  - **Nyitott körvonalak**
+  - A domborművek és szobrok a templomok szerves alkotóelemei
+  - **Pheidiasz**: 
+    - **Pallasz Athéné** szobra – óriás nőalak, lándzsával, pajzzsal
+    - Fa, arany, elefántcsont anyagok
+    - **Panathénaia**: lovasok, gyalogosok, ülőfigurák
+    - **Izokefália** – fejek azonos magasságban
+  - **Mürón**: 
+    - **Diszkoszvető** (Lándzsavivő)
+  - **Polükleitosz**: Doryphoros (Lándzsavivő)  
+  - **Delphoi kocsihajtó** (bronz), **Zeusz bronz szobra**, **Hermész a kis Dionüszosszal**  
 
 ### 4. Hellenizmus kora (i.e. IV–I. sz.)
-- Nagy Sándor birodalmának felbomlása → görög kultúra keveredése  
-- **Építészet**: színházak, piacterek, stadionok, városfalak  
-- **Pergamon**: Zeusz-oltár (Berlinben rekonstruálva), domborművek – gigászok harca  
-- **Szobrászat**: szenvedély, drámaiság, mozgalmasság, teatralitás  
-  - Szamothrakéi Niké (győzelmi emlékmű)  
-  - Laokoón-csoport (dráma, mozgalmasság)  
-  - Milói Vénusz (idealizált női szépség)  
-  - Töviskihúzó fiú  
+- A széthullott birodalom királyságait **Róma hódította meg**
+- **Építészet**: 
+  - **Színházak**, **piacterek**, **stadionok**, **városfalak**
+  - **Pergamon**: Fellegvár, **Zeusz oltár** (Berlinben rekonstruálva)
+- **Szobrászat**: 
+  - **Szenvedély**, **drámaiság**, **mozgalmasság**, **teatralitás**
+  - **Idős**, **rokkant**, **groteszk figurák**
+  - **Zeusz oltár** – rekonstrukció Berlinben
+  - **Az istenek és a gigászok harca** – dombormű, mozgalmas jelenetek
+  - **Szamothrakéi Niké** (győzelmi emlékmű) – márvány torzó
+  - **Laokoón-csoport** (dráma, mozgalmasság) – márvány
+  - **Milói Vénusz** (idealizált női szépség)
+  - **Töviskihúzó fiú** szobra
 - **Festészet**: festett vázák – geometrikus, fekete- és vörösalakos technika  
 
 ## 4. Építészet és oszloprendek
-- **Templom felépítése**: lépcsős lábazat, oszlopsor, nyaktagozat–párkány (fríz, triglif, metopé), timpanon  
+- **Templom felépítése**: 
+  - **Lépcsős lábazat**
+  - **Törzs-oszlopsor(ok)**
+  - **Nyaktagozat-párkány**:
+    - **Eresz**
+    - **Fríz**
+    - **Triglif**
+    - **Metopé**
+    - **Hevedergerenda**
+  - **Timpanon**
 - **Oszloprendek**:  
-  - **Dór** – egyszerű, masszív, súlyos  
-  - **Ión** – kecsesebb, volutás fejezet  
-  - **Korinthoszi** – díszes, akantuszlevél-motívum  
+  - **Dór** – egyszerű, masszív, súlyos, erős vonalak
+  - **Ión** – kecsesebb, volutás fejezet, finomabb arányok
+  - **Korinthoszi** – díszes, akantuszlevél-motívum, legkifinomultabb
+
+## 5. Görög vázafestészet
+- **Geometrikus stílus** (Homéroszi kor)
+- **Feketealakos technika** (Archaikus kor)
+- **Vörösalakos technika** (Klasszikus kor)
+- Mitológiai jelenetek, hétköznapi élet ábrázolása
+- A festészet fennmaradt emlékei
 
 ---
 
