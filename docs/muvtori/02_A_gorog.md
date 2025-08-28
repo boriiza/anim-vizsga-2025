@@ -1,6 +1,7 @@
 # 2A - Az antik görög kor hitvilága, korszakai és építészete
 
 Mutassa be az antik görög kor hitvilágát, korszakait és építészetét! Elemezze a legismertebb épületeit, művészeti alkotásait!
+
 - Az ókori görög művészet és kultúra nagy korszakai ,jellemzői
 - A templomok felépítése, az oszloprendek jellemzői
 - A görög szobrászat jellegzetes vonásai a különböző korszakokban
