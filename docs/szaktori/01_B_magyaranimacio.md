@@ -44,9 +44,9 @@
 - **Kovásznai Gábor**: kísérleti animáció, avantgárd megközelítések
 - **Szoboszlay Péter**: rajzolt animáció, hagyományos technikák
 - **Reisenbüchler Sándor**: kísérleti technikák, innováció
-- **Jankovics Marcell**: **János vitéz** (1973) rendezője, karaktertervezés és rendezés mestere
+- **Jankovics Marcell**: **János vitéz** (1973), **Sisyphus** (1974) rendezője, karaktertervezés és rendezés mestere
 - **Cakó Ferenc**: kísérleti animáció, absztrakt megközelítések
-- **Rófusz Ferenc**: **Sisyphus** (1974) Oscar-díjas alkotó, kísérleti technikák úttörője
+- **Rófusz Ferenc**: **Légy** (1980) Oscar-díjas alkotó, kísérleti technikák úttörője
 - **Hernádi Tibor**: rajzolt animáció, hagyományos megközelítések
 - **Orosz István**: kísérleti animáció, innovatív stílusok
 - **Varsányi Ferenc**: karaktertervezés, vizuális fejlesztés
@@ -65,7 +65,7 @@
 
 #### Rövidfilmek
 - **Párbaj** (1960): korai kísérleti alkotás, magyar animáció úttörője
-- **Sisyphus** (1974): Rófusz Ferenc Oscar-díjas filmje, nemzetközi elismerés
+- **Sisyphus** (1974): Jankovics Marcell, nemzetközi elismerés
 - **Habfürdő** (1979): kísérleti technikák, absztrakt megközelítés
 - **A légy** (1980): Rófusz Ferenc alkotása, kísérleti stílus
 
